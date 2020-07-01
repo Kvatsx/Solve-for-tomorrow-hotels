@@ -1,0 +1,4020 @@
+{
+    "data": [
+        {
+            "pxper": 1,
+            "sld": "",
+            "sb": 0,
+            "is_aa": 0,
+            "entr_prop": "",
+            "bbp": [
+                {
+                    "pt": "Free Cancellation Till 2 Jul'20",
+                    "htd": {
+                        "ic": "tSheildIcon",
+                        "h": "Free cancellation",
+                        "ht": [
+                            "Free cancellation available till 2 Jul'20.T&C Apply"
+                        ],
+                        "ft": "Show properties having free cancellation",
+                        "hec": {
+                            "tc": "#2bac36",
+                            "bgc": "#ffffff"
+                        },
+                        "hoc": {
+                            "tc": "#141823",
+                            "bgc": "#e9f6ea"
+                        },
+                        "ftc": "#2276e3"
+                    },
+                    "ccd": {
+                        "tc": "#2bac36",
+                        "bgc": "#e9f6ea"
+                    },
+                    "fd": {
+                        "fc": 1
+                    }
+                }
+            ],
+            "cp1": [
+                {
+                    "ic": "tCoupleFriendly",
+                    "pt": "Couple Friendly",
+                    "htd": {
+                        "ic": "tCoupleFriendly",
+                        "h": "Couple Friendly Hotels",
+                        "ht": [
+                            "Hassle Free Check-in",
+                            "Private Bookings",
+                            "Unmarried Couples",
+                            "Local IDs Accepted"
+                        ],
+                        "ft": "Show more couple friendly properties",
+                        "hec": {
+                            "tc": "#ff6d38",
+                            "bgc": "#ffffff"
+                        },
+                        "hoc": {
+                            "tc": "#141823",
+                            "bgc": "#fff4eb"
+                        },
+                        "ftc": "#2276e3"
+                    },
+                    "ccd": {
+                        "tc": "#ff6d38",
+                        "bgc": "#ffffff"
+                    },
+                    "fd": {
+                        "tag": "Couple Friendly"
+                    }
+                }
+            ],
+            "arp": [
+                {
+                    "ic": "tVoyagerPer",
+                    "pt": "Majorda Railway Station",
+                    "htd": {
+                        "h": "Majorda Railway Station",
+                        "ht": [
+                            "Approx 2.9km from Majorda Railway Station"
+                        ],
+                        "ft": "View similar hotels",
+                        "hec": {
+                            "tc": "#2276e3",
+                            "bgc": "#ffffff"
+                        },
+                        "hoc": {
+                            "tc": "#141823",
+                            "bgc": "#d1e5ff"
+                        },
+                        "ftc": "#2276e3"
+                    },
+                    "ccd": {
+                        "tc": "#2276e3",
+                        "bgc": "#eef4fd"
+                    },
+                    "fd": {
+                        "utag": [
+                            {
+                                "fid": "7172695204010776027"
+                            }
+                        ]
+                    }
+                }
+            ],
+            "bp": [
+                {
+                    "pt": "Hot Deal",
+                    "htd": {
+                        "h": "HOT DEAL",
+                        "ht": [
+                            "This property is offering the best prices for selected dates."
+                        ],
+                        "hec": {
+                            "tc": "#ffffff",
+                            "bgc": "linear-gradient(283deg,#ff6d38, #ff3a5c)",
+                            "ig": true
+                        },
+                        "hoc": {
+                            "tc": "#141823",
+                            "bgc": "#ffe1d9"
+                        }
+                    },
+                    "ccd": {
+                        "tc": "#ffffff",
+                        "bgc": "linear-gradient(283deg,#ff6d38, #ff3a5c)",
+                        "ig": true
+                    }
+                }
+            ],
+            "oip": [
+                {
+                    "pt": "Free Breakfast",
+                    "htd": {},
+                    "ccd": {
+                        "tc": "#2bac36",
+                        "bgc": "#e9f6ea"
+                    }
+                }
+            ],
+            "bpp": [
+                {
+                    "ic": "tFreeBrkFast",
+                    "pt": "INCL OF FREE BREAKFAST",
+                    "htd": {
+                        "ic": "tFreeBrkFast",
+                        "h": "INCL OF FREE BREAKFAST",
+                        "ht": [
+                            "This price includes free breakfast."
+                        ],
+                        "hec": {
+                            "tc": "#2bac36",
+                            "bgc": "#ffffff"
+                        },
+                        "hoc": {
+                            "tc": "#141823",
+                            "bgc": "#e9f6ea"
+                        }
+                    },
+                    "ccd": {
+                        "tc": "#2bac36",
+                        "bgc": "#ffffff"
+                    }
+                }
+            ],
+            "npp": [
+                {
+                    "pt": "goSafe",
+                    "htd": {
+                        "ht": [
+                            "Sanitized Environment",
+                            "SAFE Practices",
+                            "Trained STAFF"
+                        ],
+                        "ft": "Show goSafe properties",
+                        "hoc": {
+                            "tc": "#4f525a",
+                            "bgc": "#ffffff"
+                        },
+                        "ftc": "#2276e3",
+                        "iu": "https://gos3.ibcdn.com/dh_gosafe_intro_logo-1588088680.png"
+                    },
+                    "ccd": {},
+                    "fd": {
+                        "tag": "goSafe"
+                    },
+                    "iu": "https://gos3.ibcdn.com/hotelgosafeshield-1588682786.png"
+                }
+            ],
+            "cbm": "",
+            "cot": "b2c",
+            "ofs": "",
+            "pph": "####################0##3######15##20200630111627_700##0##0##5111119515##-535##-417##-64##0##",
+            "opr": -5720,
+            "pm": 1,
+            "spr": 0,
+            "dspr": 0,
+            "dtc": 0,
+            "ti": 0,
+            "gseg": "",
+            "adp": 0,
+            "tnc": -855,
+            "do": 1,
+            "sc": "org#b2c#nil#nil#nil",
+            "ami": [
+                7,
+                8,
+                11,
+                17,
+                18,
+                21,
+                22,
+                23,
+                25
+            ],
+            "tgi": [
+                3,
+                4
+            ],
+            "hti": [
+                4
+            ],
+            "apui": 0,
+            "nbi": [
+                0,
+                0,
+                0,
+                20
+            ],
+            "tdi": [
+                3,
+                4
+            ],
+            "aci": [
+                0,
+                3,
+                5,
+                7,
+                8,
+                10
+            ],
+            "ch": "",
+            "chc": "",
+            "hc": "2999375996394657976",
+            "hn": "Indismart Woodbourne Resort",
+            "ibp": "v3",
+            "l": "Salcete",
+            "t": "https://cdn1.goibibo.com/image/fetch/t_g_ing_v8/f_webp/http://mdb.ibcdn.com/tdbkb7d5c12ipa33onaqo34o0019.jpg",
+            "rtn": "Royal Villa with Breakfast and Dinner",
+            "la": 15.3265781403,
+            "lo": 73.9388809204,
+            "gr": 4.2,
+            "gos_flag": 0,
+            "pr": 0,
+            "hr": 3,
+            "grc": 190,
+            "gri": 1,
+            "grti": 0,
+            "vi": 0,
+            "hfe": 0,
+            "hmd": "b89cbd780cb68b7a3597934a091bb37e27037867537625df9e19fa357ac1df74e92e90a44e74bfae2c73a373d7a8a03454d1403737dd1e6f18739d0e329fd6f42158cbaa771582cd6811eaaafabbce80ec2faa6de410ffd35a605a8ecffbebabeef149218efbe9765ec6a233fe2a0a8de3e599fddc2692feae95e70bd1cd2a6c64553bca538895c4922b7553e2282be630d489d4b5995146fb4da2b8ee62a85317b1aa054e8bbae0ad523fa060c8df650caa3fbdeea3a29ddeb6a701884e191a7a812abf5c5ab8f15d96549e64179281dd7974b260dde209374e96ab5410bcbd99d3e76fbaa5ab61b1be65fdfa1fcde587336dda467ac400c9d86402562ea8054bc6c66403290eb11f6ac93fa19b78adeb97e45d37d227e0590077adb9aee9b694444929ce",
+            "gsv": "",
+            "emi": "",
+            "emid": null,
+            "ad": [],
+            "gtv": "ing",
+            "si": [
+                "https://cdn1.goibibo.com/image/fetch/t_g_ing_v8/f_jpg/http://mdb.ibcdn.com/0cvtle1lml2p32p46fpb3oka001a.jpg",
+                "https://cdn1.goibibo.com/t_g_ing_v8/indismart-woodbourne-resort-goa-indismart-woodbourne-resort-goa-facade-112072532839-orijgp.jpg",
+                "https://cdn1.goibibo.com/t_g_ing_v8/indismart-woodbourne-resort-goa-indismart-woodbourne-resort-goa-restaurant-112072583322-orijgp.jpg",
+                "https://cdn1.goibibo.com/t_g_ing_v8/indismart-woodbourne-resort-goa-201012141541117453_indismart_woodbourne_resort_restaurant_image1jpg-112072600233-orijgp.jpg",
+                "https://cdn1.goibibo.com/t_g_ing_v8/indismart-woodbourne-resort-goa-indismart-woodbourne-resort-goa-restaurant-112072553612-orijgp.jpg",
+                "https://cdn1.goibibo.com/t_g_ing_v8/indismart-woodbourne-resort-goa-indismart-woodbourne-resort-goa-swimming-pool-112072825256-orijgp.jpg",
+                "https://cdn1.goibibo.com/t_g_ing_v8/indismart-woodbourne-resort-goa-201012141541117453_indismart_woodbourne_resort_exterior_image1jpg-112072778542-orijgp.jpg"
+            ],
+            "hi": [
+                {
+                    "si": "https://cdn1.goibibo.com/image/fetch/t_g_ing_v8/f_webp/http://mdb.ibcdn.com/tdbkb7d5c12ipa33onaqo34o0019.jpg",
+                    "mi": "https://cdn1.goibibo.com/image/fetch/t_g_ing_v8/f_webp/http://mdb.ibcdn.com/tdbkb7d5c12ipa33onaqo34o0019.jpg"
+                },
+                {
+                    "si": "https://cdn1.goibibo.com/image/fetch/t_r_v3/f_jpg/http://mdb.ibcdn.com/0cvtle1lml2p32p46fpb3oka001a.jpg",
+                    "mi": "https://cdn1.goibibo.com/image/fetch/t_g_ing_v8/f_jpg/http://mdb.ibcdn.com/0cvtle1lml2p32p46fpb3oka001a.jpg"
+                },
+                {
+                    "si": "https://cdn1.goibibo.com/t_r_v3/indismart-woodbourne-resort-goa-indismart-woodbourne-resort-goa-facade-112072532839-orijgp.jpg",
+                    "mi": "https://cdn1.goibibo.com/t_g_ing_v8/indismart-woodbourne-resort-goa-indismart-woodbourne-resort-goa-facade-112072532839-orijgp.jpg"
+                },
+                {
+                    "si": "https://cdn1.goibibo.com/t_r_v3/indismart-woodbourne-resort-goa-indismart-woodbourne-resort-goa-restaurant-112072583322-orijgp.jpg",
+                    "mi": "https://cdn1.goibibo.com/t_g_ing_v8/indismart-woodbourne-resort-goa-indismart-woodbourne-resort-goa-restaurant-112072583322-orijgp.jpg"
+                },
+                {
+                    "si": "https://cdn1.goibibo.com/t_r_v3/indismart-woodbourne-resort-goa-201012141541117453_indismart_woodbourne_resort_restaurant_image1jpg-112072600233-orijgp.jpg",
+                    "mi": "https://cdn1.goibibo.com/t_g_ing_v8/indismart-woodbourne-resort-goa-201012141541117453_indismart_woodbourne_resort_restaurant_image1jpg-112072600233-orijgp.jpg"
+                },
+                {
+                    "si": "https://cdn1.goibibo.com/t_r_v3/indismart-woodbourne-resort-goa-indismart-woodbourne-resort-goa-restaurant-112072553612-orijgp.jpg",
+                    "mi": "https://cdn1.goibibo.com/t_g_ing_v8/indismart-woodbourne-resort-goa-indismart-woodbourne-resort-goa-restaurant-112072553612-orijgp.jpg"
+                },
+                {
+                    "si": "https://cdn1.goibibo.com/t_r_v3/indismart-woodbourne-resort-goa-indismart-woodbourne-resort-goa-swimming-pool-112072825256-orijgp.jpg",
+                    "mi": "https://cdn1.goibibo.com/t_g_ing_v8/indismart-woodbourne-resort-goa-indismart-woodbourne-resort-goa-swimming-pool-112072825256-orijgp.jpg"
+                },
+                {
+                    "si": "https://cdn1.goibibo.com/t_r_v3/indismart-woodbourne-resort-goa-201012141541117453_indismart_woodbourne_resort_exterior_image1jpg-112072778542-orijgp.jpg",
+                    "mi": "https://cdn1.goibibo.com/t_g_ing_v8/indismart-woodbourne-resort-goa-201012141541117453_indismart_woodbourne_resort_exterior_image1jpg-112072778542-orijgp.jpg"
+                }
+            ],
+            "ba": 1,
+            "cf": 1,
+            "rac": [
+                10,
+                8,
+                21,
+                60,
+                91
+            ],
+            "rec": 107
+        },
+        {
+            "pxper": 1,
+            "sld": "",
+            "sb": 0,
+            "is_aa": 0,
+            "entr_prop": "",
+            "bbp": [
+                {
+                    "pt": "Free Cancellation Till 2 Jul'20",
+                    "htd": {
+                        "ic": "tSheildIcon",
+                        "h": "Free cancellation",
+                        "ht": [
+                            "Free cancellation available till 2 Jul'20.T&C Apply"
+                        ],
+                        "ft": "Show properties having free cancellation",
+                        "hec": {
+                            "tc": "#2bac36",
+                            "bgc": "#ffffff"
+                        },
+                        "hoc": {
+                            "tc": "#141823",
+                            "bgc": "#e9f6ea"
+                        },
+                        "ftc": "#2276e3"
+                    },
+                    "ccd": {
+                        "tc": "#2bac36",
+                        "bgc": "#e9f6ea"
+                    },
+                    "fd": {
+                        "fc": 1
+                    }
+                }
+            ],
+            "cp1": [
+                {
+                    "ic": "tCoupleFriendly",
+                    "pt": "Couple Friendly",
+                    "htd": {
+                        "ic": "tCoupleFriendly",
+                        "h": "Couple Friendly Hotels",
+                        "ht": [
+                            "Hassle Free Check-in",
+                            "Private Bookings",
+                            "Unmarried Couples",
+                            "Local IDs Accepted"
+                        ],
+                        "ft": "Show more couple friendly properties",
+                        "hec": {
+                            "tc": "#ff6d38",
+                            "bgc": "#ffffff"
+                        },
+                        "hoc": {
+                            "tc": "#141823",
+                            "bgc": "#fff4eb"
+                        },
+                        "ftc": "#2276e3"
+                    },
+                    "ccd": {
+                        "tc": "#ff6d38",
+                        "bgc": "#ffffff"
+                    },
+                    "fd": {
+                        "tag": "Couple Friendly"
+                    }
+                }
+            ],
+            "arp": [
+                {
+                    "ic": "locpin",
+                    "pt": "near to Ozran Beach",
+                    "htd": {},
+                    "ccd": {
+                        "tc": "#4f525a",
+                        "bgc": "#ffffff"
+                    }
+                }
+            ],
+            "bp": [
+                {
+                    "pt": "Hot Deal",
+                    "htd": {
+                        "h": "HOT DEAL",
+                        "ht": [
+                            "This property is offering the best prices for selected dates."
+                        ],
+                        "hec": {
+                            "tc": "#ffffff",
+                            "bgc": "linear-gradient(283deg,#ff6d38, #ff3a5c)",
+                            "ig": true
+                        },
+                        "hoc": {
+                            "tc": "#141823",
+                            "bgc": "#ffe1d9"
+                        }
+                    },
+                    "ccd": {
+                        "tc": "#ffffff",
+                        "bgc": "linear-gradient(283deg,#ff6d38, #ff3a5c)",
+                        "ig": true
+                    }
+                }
+            ],
+            "oip": [
+                {
+                    "pt": "Free Breakfast",
+                    "htd": {},
+                    "ccd": {
+                        "tc": "#2bac36",
+                        "bgc": "#e9f6ea"
+                    }
+                }
+            ],
+            "bpp": [
+                {
+                    "ic": "tFreeBrkFast",
+                    "pt": "INCL OF FREE BREAKFAST",
+                    "htd": {
+                        "ic": "tFreeBrkFast",
+                        "h": "INCL OF FREE BREAKFAST",
+                        "ht": [
+                            "This price includes free breakfast."
+                        ],
+                        "hec": {
+                            "tc": "#2bac36",
+                            "bgc": "#ffffff"
+                        },
+                        "hoc": {
+                            "tc": "#141823",
+                            "bgc": "#e9f6ea"
+                        }
+                    },
+                    "ccd": {
+                        "tc": "#2bac36",
+                        "bgc": "#ffffff"
+                    }
+                }
+            ],
+            "npp": [
+                {
+                    "pt": "goSafe",
+                    "htd": {
+                        "ht": [
+                            "Sanitized Environment",
+                            "SAFE Practices",
+                            "Trained STAFF"
+                        ],
+                        "ft": "Show goSafe properties",
+                        "hoc": {
+                            "tc": "#4f525a",
+                            "bgc": "#ffffff"
+                        },
+                        "ftc": "#2276e3",
+                        "iu": "https://gos3.ibcdn.com/dh_gosafe_intro_logo-1588088680.png"
+                    },
+                    "ccd": {},
+                    "fd": {
+                        "tag": "goSafe"
+                    },
+                    "iu": "https://gos3.ibcdn.com/hotelgosafeshield-1588682786.png"
+                }
+            ],
+            "cbm": "",
+            "cot": "b2c",
+            "ofs": "",
+            "pph": "####################0##3######17##20200630111627_700##0##0##5111033825##-400##-312##-72##0##",
+            "opr": -9912,
+            "pm": 1,
+            "spr": 0,
+            "dspr": 0,
+            "dtc": 0,
+            "ti": 0,
+            "gseg": "",
+            "adp": 0,
+            "tnc": -1912,
+            "do": 1,
+            "sc": "org#b2c#nil#nil#nil",
+            "ami": [
+                0,
+                4,
+                8,
+                9,
+                11,
+                16,
+                17,
+                18,
+                21,
+                22,
+                23,
+                26,
+                27
+            ],
+            "hti": [
+                2
+            ],
+            "apui": 0,
+            "nbi": [
+                0,
+                0,
+                0,
+                16
+            ],
+            "aci": [
+                0,
+                3,
+                4,
+                5,
+                7,
+                8
+            ],
+            "ch": "",
+            "chc": "",
+            "hc": "2829921501140013519",
+            "hn": "Emperor Resort & Spa",
+            "ibp": "v3",
+            "l": "Vagator Area",
+            "t": "https://cdn1.goibibo.com/t_g_ing_v8/emperor-resort-spa-goa-studio-room1111-167482811407-oriwebp.webp",
+            "rtn": "Luxury 2BHK Villa with Breakfast",
+            "la": 15.5965833664,
+            "lo": 73.7405929565,
+            "gr": 4,
+            "gos_flag": 0,
+            "pr": 0,
+            "hr": 4,
+            "grc": 175,
+            "gri": 1,
+            "grti": 0,
+            "vi": 0,
+            "hfe": 0,
+            "hmd": "9a65f79eaf8c1fc03c0acab532cb525a875f396db079fc93ccfda95e26c0a3fb04d96947bbee9b89ef430d18933524c6f71eda71c9ca79dbcbe97e5fae4a46084725a7b25cfaf291ca0fe46bdf321bdb67b22c9cffc7be744765fb8a7d563dce5810a43bd8cab0c8573477327dcef9fbb01c7dc6009dc0acb54469914a7990079689c727682d42705ca792466b040356a6989a4de1c060a5308e4fd245184e65aec642000db90994494dbccb48d4ac85051b4ddda498e59aecc4aa0cf413f3261a4597cf95c1bd1edb7c4a20074294d0d8077938941f8146beedfb8e3450e7e33ab09bdd62fe6fc4d73e454be7934b8a04f7384b5915e8f91c70d4cd9b6c09fd7c4bab05e317263b2959c4ba69a68d301e56a99910d7c246c2e9ea5d05ae1f07003366e427c575a9cc98baa4",
+            "gsv": "",
+            "emi": "",
+            "emid": null,
+            "ad": [],
+            "gtv": "ing",
+            "si": [
+                "https://cdn1.goibibo.com/t_g_ing_v8/emperor-resort-spa-goa-exterior-134307909874-orijgp.jpg",
+                "https://cdn1.goibibo.com/t_g_ing_v8/justin-boutique-resort-goa-i39a3794-123114487948-orijgp.jpg",
+                "https://cdn1.goibibo.com/t_g_ing_v8/emperor-resort-spa-goa-bar-136740632750-orijgp.jpg",
+                "https://cdn1.goibibo.com/t_g_ing_v8/emperor-resort-spa-goa-villa-sitting-area-134244741722-orijgp.jpg",
+                "https://cdn1.goibibo.com/t_g_ing_v8/emperor-resort-spa-goa-villa-sitting-area-134244776468-orijgp.jpg",
+                "https://cdn1.goibibo.com/t_g_ing_v8/emperor-resort-spa-goa-villa-134319646349-orijgp.jpg",
+                "https://cdn1.goibibo.com/t_g_ing_v8/emperor-resort-spa-goa-pool-136740613887-orijgp.jpg"
+            ],
+            "hi": [
+                {
+                    "si": "https://cdn1.goibibo.com/t_g_ing_v8/emperor-resort-spa-goa-studio-room1111-167482811407-oriwebp.webp",
+                    "mi": "https://cdn1.goibibo.com/t_g_ing_v8/emperor-resort-spa-goa-studio-room1111-167482811407-oriwebp.webp"
+                },
+                {
+                    "si": "https://cdn1.goibibo.com/t_r_v3/emperor-resort-spa-goa-exterior-134307909874-orijgp.jpg",
+                    "mi": "https://cdn1.goibibo.com/t_g_ing_v8/emperor-resort-spa-goa-exterior-134307909874-orijgp.jpg"
+                },
+                {
+                    "si": "https://cdn1.goibibo.com/t_r_v3/justin-boutique-resort-goa-i39a3794-123114487948-orijgp.jpg",
+                    "mi": "https://cdn1.goibibo.com/t_g_ing_v8/justin-boutique-resort-goa-i39a3794-123114487948-orijgp.jpg"
+                },
+                {
+                    "si": "https://cdn1.goibibo.com/t_r_v3/emperor-resort-spa-goa-bar-136740632750-orijgp.jpg",
+                    "mi": "https://cdn1.goibibo.com/t_g_ing_v8/emperor-resort-spa-goa-bar-136740632750-orijgp.jpg"
+                },
+                {
+                    "si": "https://cdn1.goibibo.com/t_r_v3/emperor-resort-spa-goa-villa-sitting-area-134244741722-orijgp.jpg",
+                    "mi": "https://cdn1.goibibo.com/t_g_ing_v8/emperor-resort-spa-goa-villa-sitting-area-134244741722-orijgp.jpg"
+                },
+                {
+                    "si": "https://cdn1.goibibo.com/t_r_v3/emperor-resort-spa-goa-villa-sitting-area-134244776468-orijgp.jpg",
+                    "mi": "https://cdn1.goibibo.com/t_g_ing_v8/emperor-resort-spa-goa-villa-sitting-area-134244776468-orijgp.jpg"
+                },
+                {
+                    "si": "https://cdn1.goibibo.com/t_r_v3/emperor-resort-spa-goa-villa-134319646349-orijgp.jpg",
+                    "mi": "https://cdn1.goibibo.com/t_g_ing_v8/emperor-resort-spa-goa-villa-134319646349-orijgp.jpg"
+                },
+                {
+                    "si": "https://cdn1.goibibo.com/t_r_v3/emperor-resort-spa-goa-pool-136740613887-orijgp.jpg",
+                    "mi": "https://cdn1.goibibo.com/t_g_ing_v8/emperor-resort-spa-goa-pool-136740613887-orijgp.jpg"
+                }
+            ],
+            "ba": 1,
+            "cf": 1,
+            "rac": [
+                14,
+                12,
+                23,
+                45,
+                81
+            ],
+            "rec": 94
+        },
+        {
+            "pxper": 1,
+            "sld": "",
+            "sb": 0,
+            "is_aa": 0,
+            "entr_prop": "",
+            "cp1": [
+                {
+                    "ic": "tCoupleFriendly",
+                    "pt": "Couple Friendly",
+                    "htd": {
+                        "ic": "tCoupleFriendly",
+                        "h": "Couple Friendly Hotels",
+                        "ht": [
+                            "Hassle Free Check-in",
+                            "Private Bookings",
+                            "Unmarried Couples",
+                            "Local IDs Accepted"
+                        ],
+                        "ft": "Show more couple friendly properties",
+                        "hec": {
+                            "tc": "#ff6d38",
+                            "bgc": "#ffffff"
+                        },
+                        "hoc": {
+                            "tc": "#141823",
+                            "bgc": "#fff4eb"
+                        },
+                        "ftc": "#2276e3"
+                    },
+                    "ccd": {
+                        "tc": "#ff6d38",
+                        "bgc": "#ffffff"
+                    },
+                    "fd": {
+                        "tag": "Couple Friendly"
+                    }
+                }
+            ],
+            "arp": [
+                {
+                    "ic": "tVoyagerPer",
+                    "pt": "Calangute Bus Stand",
+                    "htd": {
+                        "h": "Calangute Bus Stand",
+                        "ht": [
+                            "Approx 700m from Calangute Bus Stand"
+                        ],
+                        "ft": "View similar hotels",
+                        "hec": {
+                            "tc": "#2276e3",
+                            "bgc": "#ffffff"
+                        },
+                        "hoc": {
+                            "tc": "#141823",
+                            "bgc": "#d1e5ff"
+                        },
+                        "ftc": "#2276e3"
+                    },
+                    "ccd": {
+                        "tc": "#2276e3",
+                        "bgc": "#eef4fd"
+                    },
+                    "fd": {
+                        "utag": [
+                            {
+                                "fid": "7555570545728650425"
+                            }
+                        ]
+                    }
+                }
+            ],
+            "bp": [
+                {
+                    "pt": "Hot Deal",
+                    "htd": {
+                        "h": "HOT DEAL",
+                        "ht": [
+                            "This property is offering the best prices for selected dates."
+                        ],
+                        "hec": {
+                            "tc": "#ffffff",
+                            "bgc": "linear-gradient(283deg,#ff6d38, #ff3a5c)",
+                            "ig": true
+                        },
+                        "hoc": {
+                            "tc": "#141823",
+                            "bgc": "#ffe1d9"
+                        }
+                    },
+                    "ccd": {
+                        "tc": "#ffffff",
+                        "bgc": "linear-gradient(283deg,#ff6d38, #ff3a5c)",
+                        "ig": true
+                    }
+                }
+            ],
+            "oip": [
+                {
+                    "pt": "Free Breakfast",
+                    "htd": {},
+                    "ccd": {
+                        "tc": "#2bac36",
+                        "bgc": "#e9f6ea"
+                    }
+                }
+            ],
+            "bpp": [
+                {
+                    "ic": "tFreeBrkFast",
+                    "pt": "INCL OF FREE BREAKFAST",
+                    "htd": {
+                        "ic": "tFreeBrkFast",
+                        "h": "INCL OF FREE BREAKFAST",
+                        "ht": [
+                            "This price includes free breakfast."
+                        ],
+                        "hec": {
+                            "tc": "#2bac36",
+                            "bgc": "#ffffff"
+                        },
+                        "hoc": {
+                            "tc": "#141823",
+                            "bgc": "#e9f6ea"
+                        }
+                    },
+                    "ccd": {
+                        "tc": "#2bac36",
+                        "bgc": "#ffffff"
+                    }
+                }
+            ],
+            "npp": [
+                {
+                    "pt": "goSafe",
+                    "htd": {
+                        "ht": [
+                            "Sanitized Environment",
+                            "SAFE Practices",
+                            "Trained STAFF"
+                        ],
+                        "ft": "Show goSafe properties",
+                        "hoc": {
+                            "tc": "#4f525a",
+                            "bgc": "#ffffff"
+                        },
+                        "ftc": "#2276e3",
+                        "iu": "https://gos3.ibcdn.com/dh_gosafe_intro_logo-1588088680.png"
+                    },
+                    "ccd": {},
+                    "fd": {
+                        "tag": "goSafe"
+                    },
+                    "iu": "https://gos3.ibcdn.com/hotelgosafeshield-1588682786.png"
+                }
+            ],
+            "cbm": "",
+            "cot": "b2c",
+            "ofs": "",
+            "pph": "####################0##3######17##20200630111627_585##0##0##5111054286##-350##-255##-42##0##",
+            "opr": -8232,
+            "pm": 1,
+            "spr": 0,
+            "dspr": 0,
+            "dtc": 0,
+            "ti": 0,
+            "gseg": "",
+            "adp": 0,
+            "tnc": -1232,
+            "do": 1,
+            "sc": "org#b2c#nil#nil#nil",
+            "ami": [
+                0,
+                2,
+                3,
+                4,
+                7,
+                8,
+                9,
+                11,
+                13,
+                14,
+                17,
+                18,
+                21,
+                22,
+                23,
+                25,
+                26,
+                27
+            ],
+            "tgi": [
+                4,
+                5
+            ],
+            "hti": [
+                4
+            ],
+            "apui": 0,
+            "nbi": [
+                0,
+                0,
+                18
+            ],
+            "tdi": [
+                4,
+                5
+            ],
+            "aci": [
+                0,
+                1,
+                3,
+                4,
+                5,
+                8
+            ],
+            "ch": "",
+            "chc": "",
+            "hc": "1695099252554833475",
+            "hn": "Neelam's The Grand",
+            "ibp": "v3",
+            "l": "Calangute Area",
+            "t": "https://cdn1.goibibo.com/t_g_ing_v8/neelams-the-grand-goa-grand-family-suite-8-147436509888-oriwebp.webp",
+            "rtn": "Family Suite with Breakfast and Dinner",
+            "la": 15.5439386368,
+            "lo": 73.7651519775,
+            "gr": 4,
+            "gos_flag": 0,
+            "pr": 0,
+            "hr": 4,
+            "grc": 2367,
+            "gri": 1,
+            "grti": 0,
+            "vi": 0,
+            "hfe": 0,
+            "hmd": "67a4fc2d85c4a9d5e4206829fb981e5b878513406e0fb74d467e92fcd655833c06fa4f801c82f9ae46eee1a20c01a613482f145e107e956074e76da6e639abe79d5dba95b89de3d6050270d62fca740a32ae5f3afca91c184a634ae8e4e2f2a272d0d19938cf3e38995a2cb965be942316fdb6a8c35255fac7b1d7326be7dd1a5d8bc9afee79252203756722cbaec0b22ed65aa2859da43bddbb92cdfadc2f774e66dbaec3200257b45715bc03f6f7a746b15a458536a7eca28ff5766f6deddc6bdeccc626136cd40ce9997342d2f39a68fbaaf9435c3dd41b0338d7e2b8ef6cc50b482ddf5dc0dfe644fd9ea2df90708ba6b3ed0dc46d751e3c1f9b121ad7256fbe5b422bc3ce6b36ae94cddbd03ffde872b373b030c38ba2398181c48c6cff45413239978ad8dd0cf581",
+            "gsv": "",
+            "emi": "",
+            "emid": null,
+            "ad": [],
+            "gtv": "ing",
+            "si": [
+                "https://cdn1.goibibo.com/t_g_ing_v8/neelams-the-grand-goa-grand-premium-suite-3-147436515347-orijgp.jpg",
+                "https://cdn1.goibibo.com/t_g_ing_v8/neelams-the-grand-goa-grand-premium-suite-6-147436521267-orijgp.jpg",
+                "https://cdn1.goibibo.com/t_g_ing_v8/neelams-the-grand-goa-grand-front-side-147436531145-orijgp.jpg",
+                "https://cdn1.goibibo.com/t_g_ing_v8/neelams-the-grand-goa-grand-pool-2-147436533696-orijgp.jpg",
+                "https://cdn1.goibibo.com/t_g_ing_v8/neelams-the-grand-goa-grand-deluxe-pool-view-1-147436538933-orijgp.jpg",
+                "https://cdn1.goibibo.com/t_g_ing_v8/neelams-the-grand-goa-grand-deluxe-pool-view-3-147436544366-orijgp.jpg",
+                "https://cdn1.goibibo.com/t_g_ing_v8/neelams-the-grand-goa-grand-family-suite-2-147436547511-orijgp.jpg"
+            ],
+            "hi": [
+                {
+                    "si": "https://cdn1.goibibo.com/t_g_ing_v8/neelams-the-grand-goa-grand-family-suite-8-147436509888-oriwebp.webp",
+                    "mi": "https://cdn1.goibibo.com/t_g_ing_v8/neelams-the-grand-goa-grand-family-suite-8-147436509888-oriwebp.webp"
+                },
+                {
+                    "si": "https://cdn1.goibibo.com/t_r_v3/neelams-the-grand-goa-grand-premium-suite-3-147436515347-orijgp.jpg",
+                    "mi": "https://cdn1.goibibo.com/t_g_ing_v8/neelams-the-grand-goa-grand-premium-suite-3-147436515347-orijgp.jpg"
+                },
+                {
+                    "si": "https://cdn1.goibibo.com/t_r_v3/neelams-the-grand-goa-grand-premium-suite-6-147436521267-orijgp.jpg",
+                    "mi": "https://cdn1.goibibo.com/t_g_ing_v8/neelams-the-grand-goa-grand-premium-suite-6-147436521267-orijgp.jpg"
+                },
+                {
+                    "si": "https://cdn1.goibibo.com/t_r_v3/neelams-the-grand-goa-grand-front-side-147436531145-orijgp.jpg",
+                    "mi": "https://cdn1.goibibo.com/t_g_ing_v8/neelams-the-grand-goa-grand-front-side-147436531145-orijgp.jpg"
+                },
+                {
+                    "si": "https://cdn1.goibibo.com/t_r_v3/neelams-the-grand-goa-grand-pool-2-147436533696-orijgp.jpg",
+                    "mi": "https://cdn1.goibibo.com/t_g_ing_v8/neelams-the-grand-goa-grand-pool-2-147436533696-orijgp.jpg"
+                },
+                {
+                    "si": "https://cdn1.goibibo.com/t_r_v3/neelams-the-grand-goa-grand-deluxe-pool-view-1-147436538933-orijgp.jpg",
+                    "mi": "https://cdn1.goibibo.com/t_g_ing_v8/neelams-the-grand-goa-grand-deluxe-pool-view-1-147436538933-orijgp.jpg"
+                },
+                {
+                    "si": "https://cdn1.goibibo.com/t_r_v3/neelams-the-grand-goa-grand-deluxe-pool-view-3-147436544366-orijgp.jpg",
+                    "mi": "https://cdn1.goibibo.com/t_g_ing_v8/neelams-the-grand-goa-grand-deluxe-pool-view-3-147436544366-orijgp.jpg"
+                },
+                {
+                    "si": "https://cdn1.goibibo.com/t_r_v3/neelams-the-grand-goa-grand-family-suite-2-147436547511-orijgp.jpg",
+                    "mi": "https://cdn1.goibibo.com/t_g_ing_v8/neelams-the-grand-goa-grand-family-suite-2-147436547511-orijgp.jpg"
+                }
+            ],
+            "ba": 1,
+            "cf": 1,
+            "rac": [
+                174,
+                120,
+                340,
+                884,
+                849
+            ],
+            "rec": 1246
+        },
+        {
+            "pxper": 1,
+            "sld": "",
+            "sb": 0,
+            "is_aa": 0,
+            "entr_prop": "",
+            "bbp": [
+                {
+                    "pt": "Free Cancellation Till 2 Jul'20",
+                    "htd": {
+                        "ic": "tSheildIcon",
+                        "h": "Free cancellation",
+                        "ht": [
+                            "Free cancellation available till 2 Jul'20.T&C Apply"
+                        ],
+                        "ft": "Show properties having free cancellation",
+                        "hec": {
+                            "tc": "#2bac36",
+                            "bgc": "#ffffff"
+                        },
+                        "hoc": {
+                            "tc": "#141823",
+                            "bgc": "#e9f6ea"
+                        },
+                        "ftc": "#2276e3"
+                    },
+                    "ccd": {
+                        "tc": "#2bac36",
+                        "bgc": "#e9f6ea"
+                    },
+                    "fd": {
+                        "fc": 1
+                    }
+                }
+            ],
+            "cp1": [
+                {
+                    "ic": "tCoupleFriendly",
+                    "pt": "Couple Friendly",
+                    "htd": {
+                        "ic": "tCoupleFriendly",
+                        "h": "Couple Friendly Hotels",
+                        "ht": [
+                            "Hassle Free Check-in",
+                            "Private Bookings",
+                            "Unmarried Couples",
+                            "Local IDs Accepted"
+                        ],
+                        "ft": "Show more couple friendly properties",
+                        "hec": {
+                            "tc": "#ff6d38",
+                            "bgc": "#ffffff"
+                        },
+                        "hoc": {
+                            "tc": "#141823",
+                            "bgc": "#fff4eb"
+                        },
+                        "ftc": "#2276e3"
+                    },
+                    "ccd": {
+                        "tc": "#ff6d38",
+                        "bgc": "#ffffff"
+                    },
+                    "fd": {
+                        "tag": "Couple Friendly"
+                    }
+                }
+            ],
+            "cp2": [
+                {
+                    "ic": "tFlame",
+                    "pt": "Last room at this price",
+                    "htd": {},
+                    "ccd": {
+                        "tc": "#ff3a5c",
+                        "bgc": "#ffffff"
+                    }
+                }
+            ],
+            "arp": [
+                {
+                    "ic": "pergen",
+                    "pt": "Clean room (92% liked), Good property",
+                    "htd": {},
+                    "ccd": {
+                        "tc": "#4f525a",
+                        "bgc": "#ffffff"
+                    }
+                }
+            ],
+            "bp": [
+                {
+                    "pt": "Hot Deal",
+                    "htd": {
+                        "h": "HOT DEAL",
+                        "ht": [
+                            "This property is offering the best prices for selected dates."
+                        ],
+                        "hec": {
+                            "tc": "#ffffff",
+                            "bgc": "linear-gradient(283deg,#ff6d38, #ff3a5c)",
+                            "ig": true
+                        },
+                        "hoc": {
+                            "tc": "#141823",
+                            "bgc": "#ffe1d9"
+                        }
+                    },
+                    "ccd": {
+                        "tc": "#ffffff",
+                        "bgc": "linear-gradient(283deg,#ff6d38, #ff3a5c)",
+                        "ig": true
+                    }
+                }
+            ],
+            "oip": [
+                {
+                    "pt": "Free Breakfast",
+                    "htd": {},
+                    "ccd": {
+                        "tc": "#2bac36",
+                        "bgc": "#e9f6ea"
+                    }
+                }
+            ],
+            "bpp": [
+                {
+                    "ic": "tFreeBrkFast",
+                    "pt": "INCL OF FREE BREAKFAST",
+                    "htd": {
+                        "ic": "tFreeBrkFast",
+                        "h": "INCL OF FREE BREAKFAST",
+                        "ht": [
+                            "This price includes free breakfast."
+                        ],
+                        "hec": {
+                            "tc": "#2bac36",
+                            "bgc": "#ffffff"
+                        },
+                        "hoc": {
+                            "tc": "#141823",
+                            "bgc": "#e9f6ea"
+                        }
+                    },
+                    "ccd": {
+                        "tc": "#2bac36",
+                        "bgc": "#ffffff"
+                    }
+                }
+            ],
+            "npp": [
+                {
+                    "pt": "goSafe",
+                    "htd": {
+                        "ht": [
+                            "Sanitized Environment",
+                            "SAFE Practices",
+                            "Trained STAFF"
+                        ],
+                        "ft": "Show goSafe properties",
+                        "hoc": {
+                            "tc": "#4f525a",
+                            "bgc": "#ffffff"
+                        },
+                        "ftc": "#2276e3",
+                        "iu": "https://gos3.ibcdn.com/dh_gosafe_intro_logo-1588088680.png"
+                    },
+                    "ccd": {},
+                    "fd": {
+                        "tag": "goSafe"
+                    },
+                    "iu": "https://gos3.ibcdn.com/hotelgosafeshield-1588682786.png"
+                }
+            ],
+            "cbm": "",
+            "cot": "b2c",
+            "ofs": "",
+            "pph": "####################0##3######15##20200630111627_637##0##0##5110982439##-1812##-1477##-326##0##",
+            "opr": -22456,
+            "pm": 1,
+            "spr": 0,
+            "dspr": 0,
+            "dtc": 0,
+            "ti": 0,
+            "gseg": "",
+            "adp": 0,
+            "tnc": -4331,
+            "do": 1,
+            "sc": "org#b2c#nil#nil#nil",
+            "ami": [
+                0,
+                2,
+                3,
+                4,
+                7,
+                8,
+                11,
+                14,
+                17,
+                18,
+                19,
+                21,
+                22,
+                23,
+                24,
+                25,
+                26
+            ],
+            "hti": [
+                2
+            ],
+            "apui": 0,
+            "nbi": [
+                0,
+                15
+            ],
+            "aci": [
+                0,
+                3,
+                4,
+                5,
+                7,
+                8
+            ],
+            "ch": "The Park",
+            "chc": "park",
+            "hc": "7225728821753254116",
+            "hn": "The Park Baga River Goa",
+            "ibp": "v3",
+            "l": "Baga Area",
+            "t": "https://cdn1.goibibo.com/t_g_ing_v8/the-park-baga-river-goa-goa-hotel-picture-132105344658-oriwebp.webp",
+            "rtn": "Terrace Suite with Breakfast",
+            "la": 15.5708408356,
+            "lo": 73.7589874268,
+            "gr": 4.5,
+            "gos_flag": 0,
+            "pr": 0,
+            "hr": 5,
+            "grc": 227,
+            "gri": 1,
+            "grti": 0,
+            "vi": 0,
+            "hfe": 0,
+            "hmd": "116ddc808f39c70816a3c03e166637c4273ea36ff1d94513464f6d69d4da70cc2444e0cbcf85d1fe982f918533592b90442cc4c14004e3cddf814b6c9741bd0af6e3c967f3dde6570ba88b04a3e3066136041ccdf2fcb715eb2b7ba6f2c09c8ece0226aed660153287255258410971df217b65d5517948fae128040c46bf7b4c4345bd90e727cd95fcce9ef5ca735e2a17fcec02a817b1ca67d1575e03f074cf9f28eca96a7b466f42bdb5120bb8f8de48b57bfe20a3946a57b55e373a290a463723e2a3b12c8684feb1e6e4967f628c86a3bb2171cad79a790430fbf9448cbf5a4830dca7a52f24aa1c362a97218399e1c28403bdbd7e71ee566bf4f30c1dc032344497cb4e90464e0c959cb5d5c6dda5fc0ff1d6c9f94270bc4b1c0a3e8df8f1c1edea27c8effffe8a1ae5",
+            "gsv": "",
+            "emi": "",
+            "emid": null,
+            "ad": [],
+            "gtv": "ing",
+            "si": [
+                "https://cdn1.goibibo.com/t_g_ing_v8/the-park-baga-river-goa-goa-hotel-front-evening-7159-144164109059-orijgp.jpg",
+                "https://cdn1.goibibo.com/t_g_ing_v8/the-park-baga-river-goa-goa-luxury-village-view-twin-photo-132105413356-orijgp.jpg",
+                "https://cdn1.goibibo.com/t_g_ing_v8/the-park-baga-river-goa-goa-suite-room-bath-tub-1988-144174692601-orijgp.jpg",
+                "https://cdn1.goibibo.com/t_g_ing_v8/the-park-baga-river-goa-goa-river-view-rooms14-144164193861-orijgp.jpg",
+                "https://cdn1.goibibo.com/t_g_ing_v8/the-park-baga-river-goa-goa-living-room-corner-suite-3943-144164185477-orijgp.jpg",
+                "https://cdn1.goibibo.com/t_g_ing_v8/the-park-baga-river-goa-goa-martini-setup-144169136843-orijgp.jpg",
+                "https://cdn1.goibibo.com/t_g_ing_v8/the-park-baga-river-goa-goa-picnic-trolley-16-144169186596-orijgp.jpg"
+            ],
+            "hi": [
+                {
+                    "si": "https://cdn1.goibibo.com/t_g_ing_v8/the-park-baga-river-goa-goa-hotel-picture-132105344658-oriwebp.webp",
+                    "mi": "https://cdn1.goibibo.com/t_g_ing_v8/the-park-baga-river-goa-goa-hotel-picture-132105344658-oriwebp.webp"
+                },
+                {
+                    "si": "https://cdn1.goibibo.com/t_r_v3/the-park-baga-river-goa-goa-hotel-front-evening-7159-144164109059-orijgp.jpg",
+                    "mi": "https://cdn1.goibibo.com/t_g_ing_v8/the-park-baga-river-goa-goa-hotel-front-evening-7159-144164109059-orijgp.jpg"
+                },
+                {
+                    "si": "https://cdn1.goibibo.com/t_r_v3/the-park-baga-river-goa-goa-luxury-village-view-twin-photo-132105413356-orijgp.jpg",
+                    "mi": "https://cdn1.goibibo.com/t_g_ing_v8/the-park-baga-river-goa-goa-luxury-village-view-twin-photo-132105413356-orijgp.jpg"
+                },
+                {
+                    "si": "https://cdn1.goibibo.com/t_r_v3/the-park-baga-river-goa-goa-suite-room-bath-tub-1988-144174692601-orijgp.jpg",
+                    "mi": "https://cdn1.goibibo.com/t_g_ing_v8/the-park-baga-river-goa-goa-suite-room-bath-tub-1988-144174692601-orijgp.jpg"
+                },
+                {
+                    "si": "https://cdn1.goibibo.com/t_r_v3/the-park-baga-river-goa-goa-river-view-rooms14-144164193861-orijgp.jpg",
+                    "mi": "https://cdn1.goibibo.com/t_g_ing_v8/the-park-baga-river-goa-goa-river-view-rooms14-144164193861-orijgp.jpg"
+                },
+                {
+                    "si": "https://cdn1.goibibo.com/t_r_v3/the-park-baga-river-goa-goa-living-room-corner-suite-3943-144164185477-orijgp.jpg",
+                    "mi": "https://cdn1.goibibo.com/t_g_ing_v8/the-park-baga-river-goa-goa-living-room-corner-suite-3943-144164185477-orijgp.jpg"
+                },
+                {
+                    "si": "https://cdn1.goibibo.com/t_r_v3/the-park-baga-river-goa-goa-martini-setup-144169136843-orijgp.jpg",
+                    "mi": "https://cdn1.goibibo.com/t_g_ing_v8/the-park-baga-river-goa-goa-martini-setup-144169136843-orijgp.jpg"
+                },
+                {
+                    "si": "https://cdn1.goibibo.com/t_r_v3/the-park-baga-river-goa-goa-picnic-trolley-16-144169186596-orijgp.jpg",
+                    "mi": "https://cdn1.goibibo.com/t_g_ing_v8/the-park-baga-river-goa-goa-picnic-trolley-16-144169186596-orijgp.jpg"
+                }
+            ],
+            "ba": 1,
+            "cf": 1,
+            "rac": [
+                8,
+                7,
+                18,
+                49,
+                145
+            ],
+            "rec": 112
+        },
+        {
+            "pxper": 1,
+            "sld": "",
+            "sb": 0,
+            "is_aa": 0,
+            "entr_prop": "",
+            "bbp": [
+                {
+                    "pt": "Free Cancellation Till 2 Jul'20",
+                    "htd": {
+                        "ic": "tSheildIcon",
+                        "h": "Free cancellation",
+                        "ht": [
+                            "Free cancellation available till 2 Jul'20.T&C Apply"
+                        ],
+                        "ft": "Show properties having free cancellation",
+                        "hec": {
+                            "tc": "#2bac36",
+                            "bgc": "#ffffff"
+                        },
+                        "hoc": {
+                            "tc": "#141823",
+                            "bgc": "#e9f6ea"
+                        },
+                        "ftc": "#2276e3"
+                    },
+                    "ccd": {
+                        "tc": "#2bac36",
+                        "bgc": "#e9f6ea"
+                    },
+                    "fd": {
+                        "fc": 1
+                    }
+                }
+            ],
+            "cp1": [
+                {
+                    "ic": "tCoupleFriendly",
+                    "pt": "Couple Friendly",
+                    "htd": {
+                        "ic": "tCoupleFriendly",
+                        "h": "Couple Friendly Hotels",
+                        "ht": [
+                            "Hassle Free Check-in",
+                            "Private Bookings",
+                            "Unmarried Couples",
+                            "Local IDs Accepted"
+                        ],
+                        "ft": "Show more couple friendly properties",
+                        "hec": {
+                            "tc": "#ff6d38",
+                            "bgc": "#ffffff"
+                        },
+                        "hoc": {
+                            "tc": "#141823",
+                            "bgc": "#fff4eb"
+                        },
+                        "ftc": "#2276e3"
+                    },
+                    "ccd": {
+                        "tc": "#ff6d38",
+                        "bgc": "#ffffff"
+                    },
+                    "fd": {
+                        "tag": "Couple Friendly"
+                    }
+                }
+            ],
+            "arp": [
+                {
+                    "ic": "pergen",
+                    "pt": "97% users like property's hygiene",
+                    "htd": {},
+                    "ccd": {
+                        "tc": "#4f525a",
+                        "bgc": "#ffffff"
+                    }
+                }
+            ],
+            "bp": [
+                {
+                    "pt": "Hot Deal",
+                    "htd": {
+                        "h": "HOT DEAL",
+                        "ht": [
+                            "This property is offering the best prices for selected dates."
+                        ],
+                        "hec": {
+                            "tc": "#ffffff",
+                            "bgc": "linear-gradient(283deg,#ff6d38, #ff3a5c)",
+                            "ig": true
+                        },
+                        "hoc": {
+                            "tc": "#141823",
+                            "bgc": "#ffe1d9"
+                        }
+                    },
+                    "ccd": {
+                        "tc": "#ffffff",
+                        "bgc": "linear-gradient(283deg,#ff6d38, #ff3a5c)",
+                        "ig": true
+                    }
+                }
+            ],
+            "oip": [
+                {
+                    "pt": "Free Breakfast",
+                    "htd": {},
+                    "ccd": {
+                        "tc": "#2bac36",
+                        "bgc": "#e9f6ea"
+                    }
+                }
+            ],
+            "bpp": [
+                {
+                    "ic": "tFreeBrkFast",
+                    "pt": "INCL OF FREE BREAKFAST",
+                    "htd": {
+                        "ic": "tFreeBrkFast",
+                        "h": "INCL OF FREE BREAKFAST",
+                        "ht": [
+                            "This price includes free breakfast."
+                        ],
+                        "hec": {
+                            "tc": "#2bac36",
+                            "bgc": "#ffffff"
+                        },
+                        "hoc": {
+                            "tc": "#141823",
+                            "bgc": "#e9f6ea"
+                        }
+                    },
+                    "ccd": {
+                        "tc": "#2bac36",
+                        "bgc": "#ffffff"
+                    }
+                }
+            ],
+            "npp": [
+                {
+                    "pt": "goSafe",
+                    "htd": {
+                        "ht": [
+                            "Sanitized Environment",
+                            "SAFE Practices",
+                            "Trained STAFF"
+                        ],
+                        "ft": "Show goSafe properties",
+                        "hoc": {
+                            "tc": "#4f525a",
+                            "bgc": "#ffffff"
+                        },
+                        "ftc": "#2276e3",
+                        "iu": "https://gos3.ibcdn.com/dh_gosafe_intro_logo-1588088680.png"
+                    },
+                    "ccd": {},
+                    "fd": {
+                        "tag": "goSafe"
+                    },
+                    "iu": "https://gos3.ibcdn.com/hotelgosafeshield-1588682786.png"
+                }
+            ],
+            "cbm": "",
+            "cot": "b2c",
+            "ofs": "",
+            "pph": "####################0##3######17##20200630111627_700##0##0##5111112192##-849##-619##-152##0##",
+            "opr": -10518,
+            "pm": 1,
+            "spr": 0,
+            "dspr": 0,
+            "dtc": 0,
+            "ti": 0,
+            "gseg": "",
+            "adp": 0,
+            "tnc": -2028,
+            "do": 1,
+            "sc": "org#b2c#nil#nil#nil",
+            "ami": [
+                3,
+                7,
+                8,
+                11,
+                21,
+                22,
+                23,
+                26
+            ],
+            "hti": [
+                2
+            ],
+            "apui": 0,
+            "nbi": [
+                10
+            ],
+            "aci": [
+                0,
+                3,
+                4,
+                5,
+                7,
+                8
+            ],
+            "ch": "",
+            "chc": "",
+            "hc": "427783067641019644",
+            "hn": "SinQ Prive",
+            "ibp": "v3",
+            "l": "Candolim Area",
+            "t": "https://cdn1.goibibo.com/t_g_ing_v8/sinq-prive-goa-facade-149879824585-oriwebp.webp",
+            "rtn": "Executive Suite (With Bathtub) with Breakfast",
+            "la": 15.5017881393,
+            "lo": 73.7717132568,
+            "gr": 4.4,
+            "gos_flag": 0,
+            "pr": 0,
+            "hr": 4,
+            "grc": 596,
+            "gri": 1,
+            "grti": 0,
+            "vi": 0,
+            "hfe": 0,
+            "hmd": "a3d05c511d6bbc2ee513f61add66f7890baeb63e7b084ccd767564f74a821ed47c90b35a6fcf74a2d9cb636a12f210ef23b2e51852d322089cbf8ea86798291ba2ab625d185a3ae021196def2c108577cd5872d13239453cc09b6cd3d523a796b334abe2c29f155a59146334d6d8b2c3eff990413f69439d831f3f1f6309001c701eadeb83b9cae26324b175a152ff5246b5c0741e0c82a1295941216a14c658f46a7c34c194734e9884d4a114b7c16ffd73c0d8ef5f095fb678f2d766af34cec2ed3f205a82e0bad683a798d7837e562e2ecde15ededb0d1b361fe61c98a0287a2ed3db368c4ddef5f9ef3aedca2bac07dabd956e6f20fc55e504e1c7d5723476c8e37621bd8c76e80cb12674f2251f2e54070b7f81ce07032f217f2ce8967d3c2710053aaaf7866a052186773af3ce",
+            "gsv": "",
+            "emi": "",
+            "emid": null,
+            "ad": [],
+            "gtv": "ing",
+            "si": [
+                "https://cdn1.goibibo.com/t_g_ing_v8/sinq-prive-goa-img_9895-145112220014-orijgp.jpg",
+                "https://cdn1.goibibo.com/t_g_ing_v8/sinq-prive-goa-2-143999228176-orijgp.jpg",
+                "https://cdn1.goibibo.com/t_g_ing_v8/sinq-prive-goa-3-144004706872-orijgp.jpg",
+                "https://cdn1.goibibo.com/t_g_ing_v8/sinq-prive-goa-img_9732-145112518836-orijgp.jpg",
+                "https://cdn1.goibibo.com/t_g_ing_v8/sinq-prive-goa-5-144004738219-orijgp.jpg",
+                "https://cdn1.goibibo.com/t_g_ing_v8/sinq-prive-goa-lobby-149879840528-orijgp.jpg",
+                "https://cdn1.goibibo.com/t_g_ing_v8/sinq-prive-goa-img_9904-145112253997-orijgp.jpg"
+            ],
+            "hi": [
+                {
+                    "si": "https://cdn1.goibibo.com/t_g_ing_v8/sinq-prive-goa-facade-149879824585-oriwebp.webp",
+                    "mi": "https://cdn1.goibibo.com/t_g_ing_v8/sinq-prive-goa-facade-149879824585-oriwebp.webp"
+                },
+                {
+                    "si": "https://cdn1.goibibo.com/t_r_v3/sinq-prive-goa-img_9895-145112220014-orijgp.jpg",
+                    "mi": "https://cdn1.goibibo.com/t_g_ing_v8/sinq-prive-goa-img_9895-145112220014-orijgp.jpg"
+                },
+                {
+                    "si": "https://cdn1.goibibo.com/t_r_v3/sinq-prive-goa-2-143999228176-orijgp.jpg",
+                    "mi": "https://cdn1.goibibo.com/t_g_ing_v8/sinq-prive-goa-2-143999228176-orijgp.jpg"
+                },
+                {
+                    "si": "https://cdn1.goibibo.com/t_r_v3/sinq-prive-goa-3-144004706872-orijgp.jpg",
+                    "mi": "https://cdn1.goibibo.com/t_g_ing_v8/sinq-prive-goa-3-144004706872-orijgp.jpg"
+                },
+                {
+                    "si": "https://cdn1.goibibo.com/t_r_v3/sinq-prive-goa-img_9732-145112518836-orijgp.jpg",
+                    "mi": "https://cdn1.goibibo.com/t_g_ing_v8/sinq-prive-goa-img_9732-145112518836-orijgp.jpg"
+                },
+                {
+                    "si": "https://cdn1.goibibo.com/t_r_v3/sinq-prive-goa-5-144004738219-orijgp.jpg",
+                    "mi": "https://cdn1.goibibo.com/t_g_ing_v8/sinq-prive-goa-5-144004738219-orijgp.jpg"
+                },
+                {
+                    "si": "https://cdn1.goibibo.com/t_r_v3/sinq-prive-goa-lobby-149879840528-orijgp.jpg",
+                    "mi": "https://cdn1.goibibo.com/t_g_ing_v8/sinq-prive-goa-lobby-149879840528-orijgp.jpg"
+                },
+                {
+                    "si": "https://cdn1.goibibo.com/t_r_v3/sinq-prive-goa-img_9904-145112253997-orijgp.jpg",
+                    "mi": "https://cdn1.goibibo.com/t_g_ing_v8/sinq-prive-goa-img_9904-145112253997-orijgp.jpg"
+                }
+            ],
+            "ba": 1,
+            "cf": 1,
+            "rac": [
+                26,
+                21,
+                54,
+                171,
+                324
+            ],
+            "rec": 283
+        },
+        {
+            "pxper": 1,
+            "sld": "",
+            "sb": 0,
+            "is_aa": 0,
+            "entr_prop": "",
+            "bbp": [
+                {
+                    "pt": "Free Cancellation Till Checkin",
+                    "htd": {
+                        "ic": "tSheildIcon",
+                        "h": "Free cancellation",
+                        "ht": [
+                            "Free cancellation available till Checkin.T&C Apply"
+                        ],
+                        "ft": "Show properties having free cancellation",
+                        "hec": {
+                            "tc": "#2bac36",
+                            "bgc": "#ffffff"
+                        },
+                        "hoc": {
+                            "tc": "#141823",
+                            "bgc": "#e9f6ea"
+                        },
+                        "ftc": "#2276e3"
+                    },
+                    "ccd": {
+                        "tc": "#2bac36",
+                        "bgc": "#e9f6ea"
+                    },
+                    "fd": {
+                        "fc": 1
+                    }
+                }
+            ],
+            "cp1": [
+                {
+                    "ic": "tCoupleFriendly",
+                    "pt": "Couple Friendly",
+                    "htd": {
+                        "ic": "tCoupleFriendly",
+                        "h": "Couple Friendly Hotels",
+                        "ht": [
+                            "Hassle Free Check-in",
+                            "Private Bookings",
+                            "Unmarried Couples",
+                            "Local IDs Accepted"
+                        ],
+                        "ft": "Show more couple friendly properties",
+                        "hec": {
+                            "tc": "#ff6d38",
+                            "bgc": "#ffffff"
+                        },
+                        "hoc": {
+                            "tc": "#141823",
+                            "bgc": "#fff4eb"
+                        },
+                        "ftc": "#2276e3"
+                    },
+                    "ccd": {
+                        "tc": "#ff6d38",
+                        "bgc": "#ffffff"
+                    },
+                    "fd": {
+                        "tag": "Couple Friendly"
+                    }
+                }
+            ],
+            "arp": [
+                {
+                    "ic": "tVoyagerPer",
+                    "pt": "Kadamba Bus Terminus",
+                    "htd": {
+                        "h": "Kadamba Bus Terminus",
+                        "ht": [
+                            "Walking distance from Kadamba Bus Terminus"
+                        ],
+                        "ft": "View similar hotels",
+                        "hec": {
+                            "tc": "#2276e3",
+                            "bgc": "#ffffff"
+                        },
+                        "hoc": {
+                            "tc": "#141823",
+                            "bgc": "#d1e5ff"
+                        },
+                        "ftc": "#2276e3"
+                    },
+                    "ccd": {
+                        "tc": "#2276e3",
+                        "bgc": "#eef4fd"
+                    },
+                    "fd": {
+                        "utag": [
+                            {
+                                "fid": "5916558932872081835"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "pt": "Deltin Royale",
+                    "htd": {
+                        "h": "Deltin Royale",
+                        "ht": [
+                            "Approx 700m from Deltin Royale"
+                        ],
+                        "ft": "View similar hotels",
+                        "hec": {
+                            "tc": "#2276e3",
+                            "bgc": "#ffffff"
+                        },
+                        "hoc": {
+                            "tc": "#141823",
+                            "bgc": "#d1e5ff"
+                        },
+                        "ftc": "#2276e3"
+                    },
+                    "ccd": {
+                        "tc": "#2276e3",
+                        "bgc": "#eef4fd"
+                    },
+                    "fd": {
+                        "utag": [
+                            {
+                                "fid": "3905616050086142652"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "pt": "Casino Pride",
+                    "htd": {
+                        "h": "Casino Pride",
+                        "ht": [
+                            "Approx 1km from Casino Pride"
+                        ],
+                        "ft": "View similar hotels",
+                        "hec": {
+                            "tc": "#2276e3",
+                            "bgc": "#ffffff"
+                        },
+                        "hoc": {
+                            "tc": "#141823",
+                            "bgc": "#d1e5ff"
+                        },
+                        "ftc": "#2276e3"
+                    },
+                    "ccd": {
+                        "tc": "#2276e3",
+                        "bgc": "#eef4fd"
+                    },
+                    "fd": {
+                        "utag": [
+                            {
+                                "fid": "9019467857272560096"
+                            }
+                        ]
+                    }
+                }
+            ],
+            "bp": [
+                {
+                    "pt": "Hot Deal",
+                    "htd": {
+                        "h": "HOT DEAL",
+                        "ht": [
+                            "This property is offering the best prices for selected dates."
+                        ],
+                        "hec": {
+                            "tc": "#ffffff",
+                            "bgc": "linear-gradient(283deg,#ff6d38, #ff3a5c)",
+                            "ig": true
+                        },
+                        "hoc": {
+                            "tc": "#141823",
+                            "bgc": "#ffe1d9"
+                        }
+                    },
+                    "ccd": {
+                        "tc": "#ffffff",
+                        "bgc": "linear-gradient(283deg,#ff6d38, #ff3a5c)",
+                        "ig": true
+                    }
+                }
+            ],
+            "oip": [
+                {
+                    "pt": "Free Breakfast",
+                    "htd": {},
+                    "ccd": {
+                        "tc": "#2bac36",
+                        "bgc": "#e9f6ea"
+                    }
+                }
+            ],
+            "bpp": [
+                {
+                    "ic": "tFreeBrkFast",
+                    "pt": "INCL OF FREE BREAKFAST",
+                    "htd": {
+                        "ic": "tFreeBrkFast",
+                        "h": "INCL OF FREE BREAKFAST",
+                        "ht": [
+                            "This price includes free breakfast."
+                        ],
+                        "hec": {
+                            "tc": "#2bac36",
+                            "bgc": "#ffffff"
+                        },
+                        "hoc": {
+                            "tc": "#141823",
+                            "bgc": "#e9f6ea"
+                        }
+                    },
+                    "ccd": {
+                        "tc": "#2bac36",
+                        "bgc": "#ffffff"
+                    }
+                }
+            ],
+            "npp": [
+                {
+                    "pt": "goSafe",
+                    "htd": {
+                        "ht": [
+                            "Sanitized Environment",
+                            "SAFE Practices",
+                            "Trained STAFF"
+                        ],
+                        "ft": "Show goSafe properties",
+                        "hoc": {
+                            "tc": "#4f525a",
+                            "bgc": "#ffffff"
+                        },
+                        "ftc": "#2276e3",
+                        "iu": "https://gos3.ibcdn.com/dh_gosafe_intro_logo-1588088680.png"
+                    },
+                    "ccd": {},
+                    "fd": {
+                        "tag": "goSafe"
+                    },
+                    "iu": "https://gos3.ibcdn.com/hotelgosafeshield-1588682786.png"
+                }
+            ],
+            "cbm": "",
+            "cot": "b2c",
+            "ofs": "",
+            "pph": "####################0##3########20200630111627_637,DND_DND##0##0##5111079885##-999##-849##-119##0##",
+            "opr": -4478,
+            "pm": 1,
+            "spr": -1,
+            "dspr": 0,
+            "dtc": 0,
+            "ti": 0,
+            "gseg": "",
+            "adp": 0,
+            "tnc": -479,
+            "do": 1,
+            "sc": "org#b2c#nil#nil#nil",
+            "ami": [
+                3,
+                4,
+                7,
+                8,
+                9,
+                10,
+                13,
+                14,
+                15,
+                17,
+                18,
+                19,
+                21,
+                27
+            ],
+            "tgi": [
+                1,
+                2
+            ],
+            "hti": [
+                2
+            ],
+            "apui": 0,
+            "nbi": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                31
+            ],
+            "tdi": [
+                1,
+                2
+            ],
+            "aci": [
+                0,
+                1,
+                2,
+                9,
+                10,
+                11
+            ],
+            "ch": "Ginger Hotels",
+            "chc": "gingerhtls",
+            "hc": "618186355172714016",
+            "hn": "GINGER Goa Panjim",
+            "ibp": "v3",
+            "l": "Panjim Area",
+            "t": "https://cdn1.goibibo.com/t_g_ing_v8/ginger-goa-goa-facade-156524230275-oriwebp.webp",
+            "rtn": "Luxe Twin with Breakfast",
+            "la": 15.4949054718,
+            "lo": 73.8341751099,
+            "gr": 3.9,
+            "gos_flag": 0,
+            "pr": 0,
+            "hr": 3,
+            "grc": 1808,
+            "gri": 1,
+            "grti": 0,
+            "vi": 0,
+            "hfe": 0,
+            "hmd": "ab3e659314112b388ded02f9de5a20032231b46a7703bed4ff5627fba32e7d65807dbae9c7fabea9f4c9857b99cab6efe7fcf598c9931479556a0e112f12938f8bdfd4339fe701b4823d34b190118df434c718b87393bdb23063b14b1c35dfa88c8d7b7522ae9d8bb6ffab996c9b85f9b58d0a68960c1ad77614b33f89cb74285bf37646f484af7d0a27a42bab3d5bcd5789f1840a69bc9b29d5216fbb9aaf2a40651f61ceaa625b7ed9f75300e63758dde4e7ca3212876b7d7bbb1e66edd536f2df1f4d341af8c8f25c7ca7d63f69d822d1b5f2e55ca9a35ba4dbb45042996dd54f4f5ecad61d227a904f017533bb6a0e6b5a7e229e1490356109aec865cffb538f73d91d6a3cf5a0735dd053f3f5eafee3ace607a171bc8afeb9b59957c031f323511b2fce0965f4",
+            "gsv": "",
+            "emi": "",
+            "emid": null,
+            "ad": [],
+            "gtv": "ing",
+            "si": [
+                "https://cdn1.goibibo.com/t_g_ing_v8/ginger-goa-goa-lobby-156524263069-orijgp.jpg",
+                "https://cdn1.goibibo.com/t_g_ing_v8/ginger-goa-goa-guest-lounge1-156524249411-orijgp.jpg",
+                "https://cdn1.goibibo.com/t_g_ing_v8/ginger-goa-goa-guest-lounge-156524243499-orijgp.jpg",
+                "https://cdn1.goibibo.com/t_g_ing_v8/ginger-goa-goa-facade-155917126051-orijgp.jpg",
+                "https://cdn1.goibibo.com/t_g_ing_v8/ginger-goa-goa-reception-155917135401-orijgp.jpg",
+                "https://cdn1.goibibo.com/t_g_ing_v8/ginger-goa-goa-restaurant-156008042303-orijgp.jpg",
+                "https://cdn1.goibibo.com/t_g_ing_v8/ginger-goa-goa-restaurant-155917139622-orijgp.jpg"
+            ],
+            "hi": [
+                {
+                    "si": "https://cdn1.goibibo.com/t_g_ing_v8/ginger-goa-goa-facade-156524230275-oriwebp.webp",
+                    "mi": "https://cdn1.goibibo.com/t_g_ing_v8/ginger-goa-goa-facade-156524230275-oriwebp.webp"
+                },
+                {
+                    "si": "https://cdn1.goibibo.com/t_r_v3/ginger-goa-goa-lobby-156524263069-orijgp.jpg",
+                    "mi": "https://cdn1.goibibo.com/t_g_ing_v8/ginger-goa-goa-lobby-156524263069-orijgp.jpg"
+                },
+                {
+                    "si": "https://cdn1.goibibo.com/t_r_v3/ginger-goa-goa-guest-lounge1-156524249411-orijgp.jpg",
+                    "mi": "https://cdn1.goibibo.com/t_g_ing_v8/ginger-goa-goa-guest-lounge1-156524249411-orijgp.jpg"
+                },
+                {
+                    "si": "https://cdn1.goibibo.com/t_r_v3/ginger-goa-goa-guest-lounge-156524243499-orijgp.jpg",
+                    "mi": "https://cdn1.goibibo.com/t_g_ing_v8/ginger-goa-goa-guest-lounge-156524243499-orijgp.jpg"
+                },
+                {
+                    "si": "https://cdn1.goibibo.com/t_r_v3/ginger-goa-goa-facade-155917126051-orijgp.jpg",
+                    "mi": "https://cdn1.goibibo.com/t_g_ing_v8/ginger-goa-goa-facade-155917126051-orijgp.jpg"
+                },
+                {
+                    "si": "https://cdn1.goibibo.com/t_r_v3/ginger-goa-goa-reception-155917135401-orijgp.jpg",
+                    "mi": "https://cdn1.goibibo.com/t_g_ing_v8/ginger-goa-goa-reception-155917135401-orijgp.jpg"
+                },
+                {
+                    "si": "https://cdn1.goibibo.com/t_r_v3/ginger-goa-goa-restaurant-156008042303-orijgp.jpg",
+                    "mi": "https://cdn1.goibibo.com/t_g_ing_v8/ginger-goa-goa-restaurant-156008042303-orijgp.jpg"
+                },
+                {
+                    "si": "https://cdn1.goibibo.com/t_r_v3/ginger-goa-goa-restaurant-155917139622-orijgp.jpg",
+                    "mi": "https://cdn1.goibibo.com/t_g_ing_v8/ginger-goa-goa-restaurant-155917139622-orijgp.jpg"
+                }
+            ],
+            "ba": 1,
+            "cf": 1,
+            "rac": [
+                153,
+                140,
+                320,
+                593,
+                602
+            ],
+            "rec": 862
+        },
+        {
+            "pxper": 1,
+            "sld": "",
+            "sb": 0,
+            "is_aa": 0,
+            "entr_prop": "",
+            "bbp": [
+                {
+                    "pt": "Free Cancellation Till 2 Jul'20",
+                    "htd": {
+                        "ic": "tSheildIcon",
+                        "h": "Free cancellation",
+                        "ht": [
+                            "Free cancellation available till 2 Jul'20.T&C Apply"
+                        ],
+                        "ft": "Show properties having free cancellation",
+                        "hec": {
+                            "tc": "#2bac36",
+                            "bgc": "#ffffff"
+                        },
+                        "hoc": {
+                            "tc": "#141823",
+                            "bgc": "#e9f6ea"
+                        },
+                        "ftc": "#2276e3"
+                    },
+                    "ccd": {
+                        "tc": "#2bac36",
+                        "bgc": "#e9f6ea"
+                    },
+                    "fd": {
+                        "fc": 1
+                    }
+                }
+            ],
+            "cp1": [
+                {
+                    "ic": "tCoupleFriendly",
+                    "pt": "Couple Friendly",
+                    "htd": {
+                        "ic": "tCoupleFriendly",
+                        "h": "Couple Friendly Hotels",
+                        "ht": [
+                            "Hassle Free Check-in",
+                            "Private Bookings",
+                            "Unmarried Couples",
+                            "Local IDs Accepted"
+                        ],
+                        "ft": "Show more couple friendly properties",
+                        "hec": {
+                            "tc": "#ff6d38",
+                            "bgc": "#ffffff"
+                        },
+                        "hoc": {
+                            "tc": "#141823",
+                            "bgc": "#fff4eb"
+                        },
+                        "ftc": "#2276e3"
+                    },
+                    "ccd": {
+                        "tc": "#ff6d38",
+                        "bgc": "#ffffff"
+                    },
+                    "fd": {
+                        "tag": "Couple Friendly"
+                    }
+                }
+            ],
+            "arp": [
+                {
+                    "ic": "locpin",
+                    "pt": "Walking distance from beach",
+                    "htd": {},
+                    "ccd": {
+                        "tc": "#4f525a",
+                        "bgc": "#ffffff"
+                    }
+                }
+            ],
+            "bp": [
+                {
+                    "pt": "Hot Deal",
+                    "htd": {
+                        "h": "HOT DEAL",
+                        "ht": [
+                            "This property is offering the best prices for selected dates."
+                        ],
+                        "hec": {
+                            "tc": "#ffffff",
+                            "bgc": "linear-gradient(283deg,#ff6d38, #ff3a5c)",
+                            "ig": true
+                        },
+                        "hoc": {
+                            "tc": "#141823",
+                            "bgc": "#ffe1d9"
+                        }
+                    },
+                    "ccd": {
+                        "tc": "#ffffff",
+                        "bgc": "linear-gradient(283deg,#ff6d38, #ff3a5c)",
+                        "ig": true
+                    }
+                }
+            ],
+            "oip": [
+                {
+                    "pt": "Free Breakfast",
+                    "htd": {},
+                    "ccd": {
+                        "tc": "#2bac36",
+                        "bgc": "#e9f6ea"
+                    }
+                }
+            ],
+            "bpp": [
+                {
+                    "ic": "tFreeBrkFast",
+                    "pt": "INCL OF FREE BREAKFAST",
+                    "htd": {
+                        "ic": "tFreeBrkFast",
+                        "h": "INCL OF FREE BREAKFAST",
+                        "ht": [
+                            "This price includes free breakfast."
+                        ],
+                        "hec": {
+                            "tc": "#2bac36",
+                            "bgc": "#ffffff"
+                        },
+                        "hoc": {
+                            "tc": "#141823",
+                            "bgc": "#e9f6ea"
+                        }
+                    },
+                    "ccd": {
+                        "tc": "#2bac36",
+                        "bgc": "#ffffff"
+                    }
+                }
+            ],
+            "npp": [
+                {
+                    "pt": "goSafe",
+                    "htd": {
+                        "ht": [
+                            "Sanitized Environment",
+                            "SAFE Practices",
+                            "Trained STAFF"
+                        ],
+                        "ft": "Show goSafe properties",
+                        "hoc": {
+                            "tc": "#4f525a",
+                            "bgc": "#ffffff"
+                        },
+                        "ftc": "#2276e3",
+                        "iu": "https://gos3.ibcdn.com/dh_gosafe_intro_logo-1588088680.png"
+                    },
+                    "ccd": {},
+                    "fd": {
+                        "tag": "goSafe"
+                    },
+                    "iu": "https://gos3.ibcdn.com/hotelgosafeshield-1588682786.png"
+                }
+            ],
+            "cbm": "",
+            "cot": "b2c",
+            "ofs": "",
+            "pph": "####################0##3######17##20200630111627_585##0##0##5110982463##-566##-453##-68##0##",
+            "opr": -6663,
+            "pm": 1,
+            "spr": -1,
+            "dspr": 0,
+            "dtc": 0,
+            "ti": 0,
+            "gseg": "",
+            "adp": 0,
+            "tnc": -997,
+            "do": 1,
+            "sc": "org#b2c#b2c#nil#nil",
+            "ami": [
+                0,
+                3,
+                4,
+                7,
+                8,
+                11,
+                13,
+                14,
+                17,
+                21,
+                22,
+                23,
+                25,
+                26,
+                27
+            ],
+            "oi": [
+                1
+            ],
+            "tgi": [
+                4
+            ],
+            "hti": [
+                4
+            ],
+            "apui": 0,
+            "nbi": [
+                18
+            ],
+            "tdi": [
+                4
+            ],
+            "aci": [
+                0,
+                1,
+                3,
+                4,
+                5,
+                8
+            ],
+            "ch": "",
+            "chc": "",
+            "hc": "7201865447388285377",
+            "hn": "Quality Inn Ocean Palms Goa",
+            "ibp": "v3",
+            "l": "Calangute Area",
+            "t": "https://cdn1.goibibo.com/image/fetch/t_g_ing_v8/f_webp/https://gos3.ibcdn.com/a68513287e6a11eaaf200242ac110003.jpg",
+            "rtn": "Palm Executive Suite with Breakfast",
+            "la": 15.5330028534,
+            "lo": 73.7644729614,
+            "gr": 4.3,
+            "gos_flag": 0,
+            "pr": 0,
+            "hr": 4,
+            "grc": 732,
+            "gri": 1,
+            "grti": 0,
+            "vi": 0,
+            "hfe": 0,
+            "hmd": "1cea591cdb5053f9c643bd18474e17badb756dc57825fbb9a7897415404eee6a4b450d328832714b65a11adf1d8e8af79d8d8ac7b1ed4668a8312e7311c678fef2f9b2bd4d6c3bd38b68256a14b769771e3ec399233efafc5094aa11b58623618799dfad812ae366ce22ce6e449c5f07709ef27f2fcadba6617f957cee6a8c845d1ccab149577b6fcaf426e5df608b6d62ae300e035f6e9295b0d9aef995c228bcd96638819c5096ed7221bac4ed649d661167e92b90127c1cf93f441c53770435a5961bb446c0cfa41d0868c25463c49064d7f509e7842a84342732b711ebe85655d69459fb2bf2e136df2a4f99125b13f64d9783e4c8a7e6bd3ccc50ef0fe7706a4dc65dfd110b2f510a9f537bdfd81e0308b404058403e954147d3ab2ededefc18a20cc67a33f40b1d953222ad830",
+            "gsv": "",
+            "emi": "",
+            "emid": null,
+            "ad": [],
+            "gtv": "ing",
+            "si": [
+                "https://cdn1.goibibo.com/image/fetch/t_g_ing_v8/f_jpg/https://gos3.ibcdn.com/f3e3aa587e6a11ea835b0242ac110004.jpg",
+                "https://cdn1.goibibo.com/t_g_ing_v8/ocean-palms-goa-201107081907392939_common_swimming_pooljpg-112114870221-orijgp.jpg",
+                "https://cdn1.goibibo.com/t_g_ing_v8/ocean-palms-goa-201107081907392939_common_swimming_pooljpg-112115181966-orijgp.jpg",
+                "https://cdn1.goibibo.com/image/fetch/t_g_ing_v8/f_jpg/https://gos3.ibcdn.com/b563655c7fb411ea88930242ac110002.jpg",
+                "https://cdn1.goibibo.com/t_g_ing_v8/quality-inn-ocean-palms-goa-goa-img_4652-163717185446-orijgp.jpg",
+                "https://cdn1.goibibo.com/t_g_ing_v8/ocean-palms-goa-facade3-145370535750-orijgp.jpg",
+                "https://cdn1.goibibo.com/t_g_ing_v8/ocean-palms-goa-ocean-palms-goa-facade-145371060521-orijgp.jpg"
+            ],
+            "hi": [
+                {
+                    "si": "https://cdn1.goibibo.com/image/fetch/t_g_ing_v8/f_webp/https://gos3.ibcdn.com/a68513287e6a11eaaf200242ac110003.jpg",
+                    "mi": "https://cdn1.goibibo.com/image/fetch/t_g_ing_v8/f_webp/https://gos3.ibcdn.com/a68513287e6a11eaaf200242ac110003.jpg"
+                },
+                {
+                    "si": "https://cdn1.goibibo.com/image/fetch/t_r_v3/f_jpg/https://gos3.ibcdn.com/f3e3aa587e6a11ea835b0242ac110004.jpg",
+                    "mi": "https://cdn1.goibibo.com/image/fetch/t_g_ing_v8/f_jpg/https://gos3.ibcdn.com/f3e3aa587e6a11ea835b0242ac110004.jpg"
+                },
+                {
+                    "si": "https://cdn1.goibibo.com/t_r_v3/ocean-palms-goa-201107081907392939_common_swimming_pooljpg-112114870221-orijgp.jpg",
+                    "mi": "https://cdn1.goibibo.com/t_g_ing_v8/ocean-palms-goa-201107081907392939_common_swimming_pooljpg-112114870221-orijgp.jpg"
+                },
+                {
+                    "si": "https://cdn1.goibibo.com/t_r_v3/ocean-palms-goa-201107081907392939_common_swimming_pooljpg-112115181966-orijgp.jpg",
+                    "mi": "https://cdn1.goibibo.com/t_g_ing_v8/ocean-palms-goa-201107081907392939_common_swimming_pooljpg-112115181966-orijgp.jpg"
+                },
+                {
+                    "si": "https://cdn1.goibibo.com/image/fetch/t_r_v3/f_jpg/https://gos3.ibcdn.com/b563655c7fb411ea88930242ac110002.jpg",
+                    "mi": "https://cdn1.goibibo.com/image/fetch/t_g_ing_v8/f_jpg/https://gos3.ibcdn.com/b563655c7fb411ea88930242ac110002.jpg"
+                },
+                {
+                    "si": "https://cdn1.goibibo.com/t_r_v3/quality-inn-ocean-palms-goa-goa-img_4652-163717185446-orijgp.jpg",
+                    "mi": "https://cdn1.goibibo.com/t_g_ing_v8/quality-inn-ocean-palms-goa-goa-img_4652-163717185446-orijgp.jpg"
+                },
+                {
+                    "si": "https://cdn1.goibibo.com/t_r_v3/ocean-palms-goa-facade3-145370535750-orijgp.jpg",
+                    "mi": "https://cdn1.goibibo.com/t_g_ing_v8/ocean-palms-goa-facade3-145370535750-orijgp.jpg"
+                },
+                {
+                    "si": "https://cdn1.goibibo.com/t_r_v3/ocean-palms-goa-ocean-palms-goa-facade-145371060521-orijgp.jpg",
+                    "mi": "https://cdn1.goibibo.com/t_g_ing_v8/ocean-palms-goa-ocean-palms-goa-facade-145371060521-orijgp.jpg"
+                }
+            ],
+            "ba": 1,
+            "cf": 1,
+            "rac": [
+                25,
+                23,
+                61,
+                305,
+                318
+            ],
+            "rec": 388
+        },
+        {
+            "pxper": 1,
+            "sld": "",
+            "sb": 0,
+            "is_aa": 0,
+            "entr_prop": "",
+            "bbp": [
+                {
+                    "pt": "Free Cancellation Till 2 Jul'20",
+                    "htd": {
+                        "ic": "tSheildIcon",
+                        "h": "Free cancellation",
+                        "ht": [
+                            "Free cancellation available till 2 Jul'20.T&C Apply"
+                        ],
+                        "ft": "Show properties having free cancellation",
+                        "hec": {
+                            "tc": "#2bac36",
+                            "bgc": "#ffffff"
+                        },
+                        "hoc": {
+                            "tc": "#141823",
+                            "bgc": "#e9f6ea"
+                        },
+                        "ftc": "#2276e3"
+                    },
+                    "ccd": {
+                        "tc": "#2bac36",
+                        "bgc": "#e9f6ea"
+                    },
+                    "fd": {
+                        "fc": 1
+                    }
+                }
+            ],
+            "cp1": [
+                {
+                    "ic": "tCoupleFriendly",
+                    "pt": "Couple Friendly",
+                    "htd": {
+                        "ic": "tCoupleFriendly",
+                        "h": "Couple Friendly Hotels",
+                        "ht": [
+                            "Hassle Free Check-in",
+                            "Private Bookings",
+                            "Unmarried Couples",
+                            "Local IDs Accepted"
+                        ],
+                        "ft": "Show more couple friendly properties",
+                        "hec": {
+                            "tc": "#ff6d38",
+                            "bgc": "#ffffff"
+                        },
+                        "hoc": {
+                            "tc": "#141823",
+                            "bgc": "#fff4eb"
+                        },
+                        "ftc": "#2276e3"
+                    },
+                    "ccd": {
+                        "tc": "#ff6d38",
+                        "bgc": "#ffffff"
+                    },
+                    "fd": {
+                        "tag": "Couple Friendly"
+                    }
+                }
+            ],
+            "arp": [
+                {
+                    "ic": "locpin",
+                    "pt": "near to Ashwem Beach",
+                    "htd": {},
+                    "ccd": {
+                        "tc": "#4f525a",
+                        "bgc": "#ffffff"
+                    }
+                }
+            ],
+            "bp": [
+                {
+                    "pt": "Hot Deal",
+                    "htd": {
+                        "h": "HOT DEAL",
+                        "ht": [
+                            "This property is offering the best prices for selected dates."
+                        ],
+                        "hec": {
+                            "tc": "#ffffff",
+                            "bgc": "linear-gradient(283deg,#ff6d38, #ff3a5c)",
+                            "ig": true
+                        },
+                        "hoc": {
+                            "tc": "#141823",
+                            "bgc": "#ffe1d9"
+                        }
+                    },
+                    "ccd": {
+                        "tc": "#ffffff",
+                        "bgc": "linear-gradient(283deg,#ff6d38, #ff3a5c)",
+                        "ig": true
+                    }
+                }
+            ],
+            "oip": [
+                {
+                    "pt": "Free Breakfast",
+                    "htd": {},
+                    "ccd": {
+                        "tc": "#2bac36",
+                        "bgc": "#e9f6ea"
+                    }
+                }
+            ],
+            "bpp": [
+                {
+                    "ic": "tFreeBrkFast",
+                    "pt": "INCL OF FREE BREAKFAST",
+                    "htd": {
+                        "ic": "tFreeBrkFast",
+                        "h": "INCL OF FREE BREAKFAST",
+                        "ht": [
+                            "This price includes free breakfast."
+                        ],
+                        "hec": {
+                            "tc": "#2bac36",
+                            "bgc": "#ffffff"
+                        },
+                        "hoc": {
+                            "tc": "#141823",
+                            "bgc": "#e9f6ea"
+                        }
+                    },
+                    "ccd": {
+                        "tc": "#2bac36",
+                        "bgc": "#ffffff"
+                    }
+                }
+            ],
+            "npp": [
+                {
+                    "pt": "goSafe",
+                    "htd": {
+                        "ht": [
+                            "Sanitized Environment",
+                            "SAFE Practices",
+                            "Trained STAFF"
+                        ],
+                        "ft": "Show goSafe properties",
+                        "hoc": {
+                            "tc": "#4f525a",
+                            "bgc": "#ffffff"
+                        },
+                        "ftc": "#2276e3",
+                        "iu": "https://gos3.ibcdn.com/dh_gosafe_intro_logo-1588088680.png"
+                    },
+                    "ccd": {},
+                    "fd": {
+                        "tag": "goSafe"
+                    },
+                    "iu": "https://gos3.ibcdn.com/hotelgosafeshield-1588682786.png"
+                }
+            ],
+            "cbm": "",
+            "cot": "b2c",
+            "ofs": "",
+            "pph": "####################0##3######20##20200630111627_700##0##0##5111112188##-1300##-949##-234##0##",
+            "opr": -16107,
+            "pm": 1,
+            "spr": 0,
+            "dspr": 0,
+            "dtc": 0,
+            "ti": 0,
+            "gseg": "",
+            "adp": 0,
+            "tnc": -3107,
+            "do": 1,
+            "sc": "org#b2c#nil#nil#nil",
+            "ami": [
+                4,
+                8,
+                11,
+                18,
+                21,
+                22,
+                27
+            ],
+            "hti": [
+                2
+            ],
+            "apui": 0,
+            "nbi": [
+                0,
+                0,
+                7
+            ],
+            "aci": [
+                3,
+                5,
+                6,
+                7,
+                8,
+                10
+            ],
+            "ch": "",
+            "chc": "",
+            "hc": "2898676208665471666",
+            "hn": "SinQ Beach Morjim.",
+            "ibp": "v3",
+            "l": "Morjim",
+            "t": "https://cdn1.goibibo.com/t_g_ing_v8/sinq-beach-morjim-goa-img_2933-126857617859-oriwebp.webp",
+            "rtn": "Signature Beach Suite with Breakfast",
+            "la": 15.6390721954,
+            "lo": 73.7201559141,
+            "gr": 4.2,
+            "gos_flag": 0,
+            "pr": 0,
+            "hr": 4,
+            "grc": 177,
+            "gri": 1,
+            "grti": 0,
+            "vi": 0,
+            "hfe": 0,
+            "hmd": "a061fef6977de63c750e72809953629787e63f5fedeb3284bc2e4579a5bdcb68690e1520bf2d9122a1ceb483f0ac039cc7a954f43acdca262988f04269c2778f81aec804fc117005ad51ae25e718ecf4870ac0fd25081dc5f368ab11323791d8c27e5b6ef8177ccf19768bac5f094cbba90664b84ca99c64167e06798d98dee10d749973cfe1c541ab056a86c4f766e5af2f34b979b62699bd344a69b8211e2318791880b50ad11a1b6fd339251dd87f41dab348f5ac6f5432bfa94f0e52fe88b4008cbeb0bc3186cc18aca756eb4df97c23bbae04699c9cde26ddabf17b3d89a65ba9b814b7b65653f8b7538b65819b1c5cc142ac4829bd4f2594fd8d5a28e7b17d4e04caf88e714939ef069f20fe9e1f0f1dbeb8882467315e42f196fb910080c9bd3f6e11b27a52b164c5",
+            "gsv": "",
+            "emi": "",
+            "emid": null,
+            "ad": [],
+            "gtv": "ing",
+            "si": [
+                "https://cdn1.goibibo.com/t_g_ing_v8/sinq-beach-morjim-goa-img_2777-126857162095-orijgp.jpg",
+                "https://cdn1.goibibo.com/t_g_ing_v8/sinq-beach-morjim-goa-ezp_6084-126880072560-orijgp.jpg",
+                "https://cdn1.goibibo.com/t_g_ing_v8/sinq-beach-morjim-goa-ezp_6115-126880102925-orijgp.jpg",
+                "https://cdn1.goibibo.com/t_g_ing_v8/sinq-beach-morjim-goa-ezp_6103-126857570698-orijgp.jpg",
+                "https://cdn1.goibibo.com/t_g_ing_v8/sinq-beach-morjim-goa-ezp_6145-126857594776-orijgp.jpg",
+                "https://cdn1.goibibo.com/t_g_ing_v8/sinq-beach-morjim-goa-ezp_6008-126857686030-orijgp.jpg",
+                "https://cdn1.goibibo.com/t_g_ing_v8/sinq-beach-morjim-goa-ezp_6018-126294361608-orijgp.jpg"
+            ],
+            "hi": [
+                {
+                    "si": "https://cdn1.goibibo.com/t_g_ing_v8/sinq-beach-morjim-goa-img_2933-126857617859-oriwebp.webp",
+                    "mi": "https://cdn1.goibibo.com/t_g_ing_v8/sinq-beach-morjim-goa-img_2933-126857617859-oriwebp.webp"
+                },
+                {
+                    "si": "https://cdn1.goibibo.com/t_r_v3/sinq-beach-morjim-goa-img_2777-126857162095-orijgp.jpg",
+                    "mi": "https://cdn1.goibibo.com/t_g_ing_v8/sinq-beach-morjim-goa-img_2777-126857162095-orijgp.jpg"
+                },
+                {
+                    "si": "https://cdn1.goibibo.com/t_r_v3/sinq-beach-morjim-goa-ezp_6084-126880072560-orijgp.jpg",
+                    "mi": "https://cdn1.goibibo.com/t_g_ing_v8/sinq-beach-morjim-goa-ezp_6084-126880072560-orijgp.jpg"
+                },
+                {
+                    "si": "https://cdn1.goibibo.com/t_r_v3/sinq-beach-morjim-goa-ezp_6115-126880102925-orijgp.jpg",
+                    "mi": "https://cdn1.goibibo.com/t_g_ing_v8/sinq-beach-morjim-goa-ezp_6115-126880102925-orijgp.jpg"
+                },
+                {
+                    "si": "https://cdn1.goibibo.com/t_r_v3/sinq-beach-morjim-goa-ezp_6103-126857570698-orijgp.jpg",
+                    "mi": "https://cdn1.goibibo.com/t_g_ing_v8/sinq-beach-morjim-goa-ezp_6103-126857570698-orijgp.jpg"
+                },
+                {
+                    "si": "https://cdn1.goibibo.com/t_r_v3/sinq-beach-morjim-goa-ezp_6145-126857594776-orijgp.jpg",
+                    "mi": "https://cdn1.goibibo.com/t_g_ing_v8/sinq-beach-morjim-goa-ezp_6145-126857594776-orijgp.jpg"
+                },
+                {
+                    "si": "https://cdn1.goibibo.com/t_r_v3/sinq-beach-morjim-goa-ezp_6008-126857686030-orijgp.jpg",
+                    "mi": "https://cdn1.goibibo.com/t_g_ing_v8/sinq-beach-morjim-goa-ezp_6008-126857686030-orijgp.jpg"
+                },
+                {
+                    "si": "https://cdn1.goibibo.com/t_r_v3/sinq-beach-morjim-goa-ezp_6018-126294361608-orijgp.jpg",
+                    "mi": "https://cdn1.goibibo.com/t_g_ing_v8/sinq-beach-morjim-goa-ezp_6018-126294361608-orijgp.jpg"
+                }
+            ],
+            "ba": 1,
+            "cf": 1,
+            "rac": [
+                11,
+                9,
+                13,
+                52,
+                92
+            ],
+            "rec": 95
+        },
+        {
+            "pxper": 1,
+            "sld": "",
+            "sb": 0,
+            "is_aa": 0,
+            "entr_prop": "",
+            "cp1": [
+                {
+                    "ic": "tCoupleFriendly",
+                    "pt": "Couple Friendly",
+                    "htd": {
+                        "ic": "tCoupleFriendly",
+                        "h": "Couple Friendly Hotels",
+                        "ht": [
+                            "Hassle Free Check-in",
+                            "Private Bookings",
+                            "Unmarried Couples",
+                            "Local IDs Accepted"
+                        ],
+                        "ft": "Show more couple friendly properties",
+                        "hec": {
+                            "tc": "#ff6d38",
+                            "bgc": "#ffffff"
+                        },
+                        "hoc": {
+                            "tc": "#141823",
+                            "bgc": "#fff4eb"
+                        },
+                        "ftc": "#2276e3"
+                    },
+                    "ccd": {
+                        "tc": "#ff6d38",
+                        "bgc": "#ffffff"
+                    },
+                    "fd": {
+                        "tag": "Couple Friendly"
+                    }
+                }
+            ],
+            "arp": [
+                {
+                    "ic": "pergen",
+                    "pt": "Nice place, Nice location (80% liked)",
+                    "htd": {},
+                    "ccd": {
+                        "tc": "#4f525a",
+                        "bgc": "#ffffff"
+                    }
+                }
+            ],
+            "bp": [
+                {
+                    "pt": "Hot Deal",
+                    "htd": {
+                        "h": "HOT DEAL",
+                        "ht": [
+                            "This property is offering the best prices for selected dates."
+                        ],
+                        "hec": {
+                            "tc": "#ffffff",
+                            "bgc": "linear-gradient(283deg,#ff6d38, #ff3a5c)",
+                            "ig": true
+                        },
+                        "hoc": {
+                            "tc": "#141823",
+                            "bgc": "#ffe1d9"
+                        }
+                    },
+                    "ccd": {
+                        "tc": "#ffffff",
+                        "bgc": "linear-gradient(283deg,#ff6d38, #ff3a5c)",
+                        "ig": true
+                    }
+                }
+            ],
+            "oip": [
+                {
+                    "pt": "Free Breakfast",
+                    "htd": {},
+                    "ccd": {
+                        "tc": "#2bac36",
+                        "bgc": "#e9f6ea"
+                    }
+                }
+            ],
+            "bpp": [
+                {
+                    "ic": "tFreeBrkFast",
+                    "pt": "INCL OF FREE BREAKFAST",
+                    "htd": {
+                        "ic": "tFreeBrkFast",
+                        "h": "INCL OF FREE BREAKFAST",
+                        "ht": [
+                            "This price includes free breakfast."
+                        ],
+                        "hec": {
+                            "tc": "#2bac36",
+                            "bgc": "#ffffff"
+                        },
+                        "hoc": {
+                            "tc": "#141823",
+                            "bgc": "#e9f6ea"
+                        }
+                    },
+                    "ccd": {
+                        "tc": "#2bac36",
+                        "bgc": "#ffffff"
+                    }
+                }
+            ],
+            "npp": [
+                {
+                    "pt": "goSafe",
+                    "htd": {
+                        "ht": [
+                            "Sanitized Environment",
+                            "SAFE Practices",
+                            "Trained STAFF"
+                        ],
+                        "ft": "Show goSafe properties",
+                        "hoc": {
+                            "tc": "#4f525a",
+                            "bgc": "#ffffff"
+                        },
+                        "ftc": "#2276e3",
+                        "iu": "https://gos3.ibcdn.com/dh_gosafe_intro_logo-1588088680.png"
+                    },
+                    "ccd": {},
+                    "fd": {
+                        "tag": "goSafe"
+                    },
+                    "iu": "https://gos3.ibcdn.com/hotelgosafeshield-1588682786.png"
+                }
+            ],
+            "cbm": "",
+            "cot": "b2c",
+            "ofs": "",
+            "pph": "####################0##3######15##20200630111627_700##0##0##5111035498##-720##-561##-86##0##",
+            "opr": -3386,
+            "pm": 1,
+            "spr": 0,
+            "dspr": 0,
+            "dtc": 0,
+            "ti": 0,
+            "gseg": "",
+            "adp": 0,
+            "tnc": -506,
+            "do": 1,
+            "sc": "org#b2c#b2c#nil#nil",
+            "ami": [
+                4,
+                8,
+                9,
+                17,
+                21,
+                22,
+                24,
+                27
+            ],
+            "oi": [
+                2,
+                1
+            ],
+            "tgi": [
+                3
+            ],
+            "hti": [
+                2
+            ],
+            "apui": 0,
+            "nbi": [
+                0,
+                0,
+                18
+            ],
+            "tdi": [
+                3
+            ],
+            "aci": [
+                3,
+                6,
+                7,
+                8,
+                10,
+                11
+            ],
+            "ch": "",
+            "chc": "",
+            "hc": "4557776920980985328",
+            "hn": "HOTEL SUN & SEA GOA",
+            "ibp": "v3",
+            "l": "Calangute Area",
+            "t": "https://cdn1.goibibo.com/t_g_ing_v8/hotel-sun-sea-goa-goa-deluxe-room-with-balcony-142016406130-oriwebp.webp",
+            "rtn": "CLASSIC AC QUAD ROOM with Breakfast",
+            "la": 15.5403604507,
+            "lo": 73.7647476196,
+            "gr": 3.6,
+            "gos_flag": 0,
+            "pr": 0,
+            "hr": 0,
+            "grc": 789,
+            "gri": 1,
+            "grti": 0,
+            "vi": 0,
+            "hfe": 0,
+            "hmd": "94591fbf4198cea9bc8ffbe47c3aab4a9433dc831b10f74259f27730c65a804d368c6c089081216d0e8999aa9acd147b25d8bad82306aef558a11f8e72c09442fa40267f7388e0a57805bdb9d2a531b18aef2706a81322c36cf497a1a5dcdc98bf236579857cfa12fe7d5e85caa0df136b77a9657bb567794a8a2d615a10d9ff4a61c648332dc9e026708b464e9ad45388622273a9c3c0d14181c8ebb2f6b9905c209ec943fcb7541846e0757fc2d8579888e17e5dfc99eec641af3c8090246c541a82c4fb5a59d142659f1eb40ae04f98d33cfb1b0c865ed9952e6eddc7211d8e9aaa047f2fc99938aec914767ff6e27691176b7779226bb3f64ff2cf0f8972dad38481049d60f1ebd2e653c396f8b91da08bcf2ed888fb01227842125861e63ee577d9f172849e4e3504c33676",
+            "gsv": "",
+            "emi": "",
+            "emid": null,
+            "ad": [],
+            "gtv": "ing",
+            "si": [
+                "https://cdn1.goibibo.com/t_g_ing_v8/hotel-sun-sea-goa-goa-whatsapp-image-2018-04-11-at-4-136786311841-orijgp.jpg",
+                "https://cdn1.goibibo.com/t_g_ing_v8/hotel-sun-sea-goa-goa-whatsapp-image-2018-04-11-at-4-136041382565-orijgp.jpg",
+                "https://cdn1.goibibo.com/t_g_ing_v8/hotel-sun-sea-goa-goa-whatsapp-image-2018-04-11-at-4-135969374992-orijgp.jpg",
+                "https://cdn1.goibibo.com/t_g_ing_v8/hotel-sun-sea-goa-goa-whatsapp-image-2018-04-11-at-4-135969393047-orijgp.jpg",
+                "https://cdn1.goibibo.com/t_g_ing_v8/hotel-sun-sea-goa-goa-whatsapp-image-2018-04-11-at-4-136041347528-orijgp.jpg",
+                "https://cdn1.goibibo.com/t_g_ing_v8/hotel-sun-sea-goa-goa-whatsapp-image-2018-04-11-at-4-136041366384-orijgp.jpg",
+                "https://cdn1.goibibo.com/t_g_ing_v8/hotel-sun-sea-goa-goa-whatsapp-image-2018-04-11-at-4-136041399915-orijgp.jpg"
+            ],
+            "hi": [
+                {
+                    "si": "https://cdn1.goibibo.com/t_g_ing_v8/hotel-sun-sea-goa-goa-deluxe-room-with-balcony-142016406130-oriwebp.webp",
+                    "mi": "https://cdn1.goibibo.com/t_g_ing_v8/hotel-sun-sea-goa-goa-deluxe-room-with-balcony-142016406130-oriwebp.webp"
+                },
+                {
+                    "si": "https://cdn1.goibibo.com/t_r_v3/hotel-sun-sea-goa-goa-whatsapp-image-2018-04-11-at-4-136786311841-orijgp.jpg",
+                    "mi": "https://cdn1.goibibo.com/t_g_ing_v8/hotel-sun-sea-goa-goa-whatsapp-image-2018-04-11-at-4-136786311841-orijgp.jpg"
+                },
+                {
+                    "si": "https://cdn1.goibibo.com/t_r_v3/hotel-sun-sea-goa-goa-whatsapp-image-2018-04-11-at-4-136041382565-orijgp.jpg",
+                    "mi": "https://cdn1.goibibo.com/t_g_ing_v8/hotel-sun-sea-goa-goa-whatsapp-image-2018-04-11-at-4-136041382565-orijgp.jpg"
+                },
+                {
+                    "si": "https://cdn1.goibibo.com/t_r_v3/hotel-sun-sea-goa-goa-whatsapp-image-2018-04-11-at-4-135969374992-orijgp.jpg",
+                    "mi": "https://cdn1.goibibo.com/t_g_ing_v8/hotel-sun-sea-goa-goa-whatsapp-image-2018-04-11-at-4-135969374992-orijgp.jpg"
+                },
+                {
+                    "si": "https://cdn1.goibibo.com/t_r_v3/hotel-sun-sea-goa-goa-whatsapp-image-2018-04-11-at-4-135969393047-orijgp.jpg",
+                    "mi": "https://cdn1.goibibo.com/t_g_ing_v8/hotel-sun-sea-goa-goa-whatsapp-image-2018-04-11-at-4-135969393047-orijgp.jpg"
+                },
+                {
+                    "si": "https://cdn1.goibibo.com/t_r_v3/hotel-sun-sea-goa-goa-whatsapp-image-2018-04-11-at-4-136041347528-orijgp.jpg",
+                    "mi": "https://cdn1.goibibo.com/t_g_ing_v8/hotel-sun-sea-goa-goa-whatsapp-image-2018-04-11-at-4-136041347528-orijgp.jpg"
+                },
+                {
+                    "si": "https://cdn1.goibibo.com/t_r_v3/hotel-sun-sea-goa-goa-whatsapp-image-2018-04-11-at-4-136041366384-orijgp.jpg",
+                    "mi": "https://cdn1.goibibo.com/t_g_ing_v8/hotel-sun-sea-goa-goa-whatsapp-image-2018-04-11-at-4-136041366384-orijgp.jpg"
+                },
+                {
+                    "si": "https://cdn1.goibibo.com/t_r_v3/hotel-sun-sea-goa-goa-whatsapp-image-2018-04-11-at-4-136041399915-orijgp.jpg",
+                    "mi": "https://cdn1.goibibo.com/t_g_ing_v8/hotel-sun-sea-goa-goa-whatsapp-image-2018-04-11-at-4-136041399915-orijgp.jpg"
+                }
+            ],
+            "ba": 1,
+            "cf": 1,
+            "rac": [
+                133,
+                76,
+                135,
+                177,
+                268
+            ],
+            "rec": 452
+        },
+        {
+            "pxper": 1,
+            "sld": "",
+            "sb": 0,
+            "is_aa": 0,
+            "entr_prop": "",
+            "cp1": [
+                {
+                    "ic": "tCoupleFriendly",
+                    "pt": "Couple Friendly",
+                    "htd": {
+                        "ic": "tCoupleFriendly",
+                        "h": "Couple Friendly Hotels",
+                        "ht": [
+                            "Hassle Free Check-in",
+                            "Private Bookings",
+                            "Unmarried Couples",
+                            "Local IDs Accepted"
+                        ],
+                        "ft": "Show more couple friendly properties",
+                        "hec": {
+                            "tc": "#ff6d38",
+                            "bgc": "#ffffff"
+                        },
+                        "hoc": {
+                            "tc": "#141823",
+                            "bgc": "#fff4eb"
+                        },
+                        "ftc": "#2276e3"
+                    },
+                    "ccd": {
+                        "tc": "#ff6d38",
+                        "bgc": "#ffffff"
+                    },
+                    "fd": {
+                        "tag": "Couple Friendly"
+                    }
+                }
+            ],
+            "cp2": [
+                {
+                    "ic": "tFlame",
+                    "pt": "Last 2 rooms at this price",
+                    "htd": {},
+                    "ccd": {
+                        "tc": "#ff3a5c",
+                        "bgc": "#ffffff"
+                    }
+                }
+            ],
+            "arp": [
+                {
+                    "ic": "locpin",
+                    "pt": "near to beach",
+                    "htd": {},
+                    "ccd": {
+                        "tc": "#4f525a",
+                        "bgc": "#ffffff"
+                    }
+                }
+            ],
+            "oip": [
+                {
+                    "pt": "Free Breakfast",
+                    "htd": {},
+                    "ccd": {
+                        "tc": "#2bac36",
+                        "bgc": "#e9f6ea"
+                    }
+                }
+            ],
+            "bpp": [
+                {
+                    "ic": "tFreeBrkFast",
+                    "pt": "INCL OF FREE BREAKFAST",
+                    "htd": {
+                        "ic": "tFreeBrkFast",
+                        "h": "INCL OF FREE BREAKFAST",
+                        "ht": [
+                            "This price includes free breakfast."
+                        ],
+                        "hec": {
+                            "tc": "#2bac36",
+                            "bgc": "#ffffff"
+                        },
+                        "hoc": {
+                            "tc": "#141823",
+                            "bgc": "#e9f6ea"
+                        }
+                    },
+                    "ccd": {
+                        "tc": "#2bac36",
+                        "bgc": "#ffffff"
+                    }
+                }
+            ],
+            "npp": [
+                {
+                    "pt": "goSafe",
+                    "htd": {
+                        "ht": [
+                            "Sanitized Environment",
+                            "SAFE Practices",
+                            "Trained STAFF"
+                        ],
+                        "ft": "Show goSafe properties",
+                        "hoc": {
+                            "tc": "#4f525a",
+                            "bgc": "#ffffff"
+                        },
+                        "ftc": "#2276e3",
+                        "iu": "https://gos3.ibcdn.com/dh_gosafe_intro_logo-1588088680.png"
+                    },
+                    "ccd": {},
+                    "fd": {
+                        "tag": "goSafe"
+                    },
+                    "iu": "https://gos3.ibcdn.com/hotelgosafeshield-1588682786.png"
+                }
+            ],
+            "cbm": "",
+            "cot": "b2c",
+            "ofs": "",
+            "pph": "####################0##0######15##20200630111627_637##0##0##########0##",
+            "opr": -69384,
+            "pm": 1,
+            "spr": 0,
+            "dspr": 0,
+            "dtc": 0,
+            "ti": 0,
+            "gseg": "",
+            "adp": 0,
+            "tnc": -13384,
+            "do": 1,
+            "sc": "org#b2c#nil#nil#nil",
+            "ami": [
+                7,
+                8,
+                11,
+                13,
+                14,
+                17,
+                18,
+                21,
+                22,
+                23,
+                25,
+                26
+            ],
+            "tgi": [
+                4,
+                5
+            ],
+            "hti": [
+                4
+            ],
+            "apui": 0,
+            "nbi": [
+                0,
+                24
+            ],
+            "tdi": [
+                4,
+                5
+            ],
+            "aci": [
+                0,
+                1,
+                3,
+                4,
+                5,
+                8
+            ],
+            "ch": "",
+            "chc": "",
+            "hc": "4146305652032965312",
+            "hn": "Resort Rio",
+            "ibp": "v3",
+            "l": "Arpora",
+            "t": "https://cdn1.goibibo.com/t_g_ing_v8/resort-rio-goa-hotel-facade-night-view-78843334288-oriwebp.webp",
+            "rtn": "2800 sq. ft. Rio Villa 4 Bedroom With Plunge Pool with Breakfast, Lunch and Dinner",
+            "la": 15.5645955844,
+            "lo": 73.7590037202,
+            "gr": 4.1,
+            "gos_flag": 0,
+            "pr": 0,
+            "hr": 5,
+            "grc": 810,
+            "gri": 1,
+            "grti": 0,
+            "vi": 0,
+            "hfe": 0,
+            "hmd": "45911b8d066afa6ef46980e04af9dc1ce8509a37e10bf629d75991b7d5ae125d1e52c79ee84ca0f910c7a3b65fb2f7e01deede73945c14b30a6a1b7e981352bbb4dd1bf8b7f3b72537181bfac3522e577c34bb32b4dc1e270d4c71479eea7111e4c0bb008e5cb214dd058fd4177d085d05d90e3309676395094c98560e74119ed0b8bb4cfb3a23a8fec1048c12b6d61026443ce05ebfa04daeef368ae957e9993feb3375520969a714ffb6c00bde42155cfc58b2de4b12f981a8146a5489940b23c8e77aab826402cf9b6a0f62e209fbee03562b899a529ca1afaa4148e2b4bb0dab94f0da27e054f05eea67a43dca012871e5c827f565f24e4ad81fcfd26dafa49866008edaea2b9521574546223d7171f273814833af14d050bace",
+            "gsv": "",
+            "emi": "",
+            "emid": null,
+            "ad": [],
+            "gtv": "ing",
+            "si": [
+                "https://cdn1.goibibo.com/image/fetch/t_g_ing_v8/f_jpg/https://gos3.ibcdn.com/3a51fc529d5b11e99b9d0242ac110007.jpg",
+                "http://cdn1.goibibo.com/t_g_ing_v8/resort-rio-goa-rio-residency-day-2-2-78846100400-orijgp.jpg",
+                "https://cdn1.goibibo.com/t_g_ing_v8/resort-rio-goa-10202236173_963b6938a1_o-173173444241-orijgp.jpg",
+                "https://cdn1.goibibo.com/t_g_ing_v8/resort-rio-goa-20-139586156130-orijgp.jpg",
+                "http://cdn1.goibibo.com/t_g_ing_v8/resort-rio-goa-lobby-view-1-78844800664-orijgp.jpg",
+                "https://cdn1.goibibo.com/t_g_ing_v8/resort-rio-goa-30-137869794873-orijgp.jpg",
+                "https://cdn1.goibibo.com/t_g_ing_v8/resort-rio-goa-17-139586142377-orijgp.jpg"
+            ],
+            "hi": [
+                {
+                    "si": "https://cdn1.goibibo.com/t_g_ing_v8/resort-rio-goa-hotel-facade-night-view-78843334288-oriwebp.webp",
+                    "mi": "https://cdn1.goibibo.com/t_g_ing_v8/resort-rio-goa-hotel-facade-night-view-78843334288-oriwebp.webp"
+                },
+                {
+                    "si": "https://cdn1.goibibo.com/image/fetch/t_r_v3/f_jpg/https://gos3.ibcdn.com/3a51fc529d5b11e99b9d0242ac110007.jpg",
+                    "mi": "https://cdn1.goibibo.com/image/fetch/t_g_ing_v8/f_jpg/https://gos3.ibcdn.com/3a51fc529d5b11e99b9d0242ac110007.jpg"
+                },
+                {
+                    "si": "http://cdn1.goibibo.com/t_r_v3/resort-rio-goa-rio-residency-day-2-2-78846100400-orijgp.jpg",
+                    "mi": "http://cdn1.goibibo.com/t_g_ing_v8/resort-rio-goa-rio-residency-day-2-2-78846100400-orijgp.jpg"
+                },
+                {
+                    "si": "https://cdn1.goibibo.com/t_r_v3/resort-rio-goa-10202236173_963b6938a1_o-173173444241-orijgp.jpg",
+                    "mi": "https://cdn1.goibibo.com/t_g_ing_v8/resort-rio-goa-10202236173_963b6938a1_o-173173444241-orijgp.jpg"
+                },
+                {
+                    "si": "https://cdn1.goibibo.com/t_r_v3/resort-rio-goa-20-139586156130-orijgp.jpg",
+                    "mi": "https://cdn1.goibibo.com/t_g_ing_v8/resort-rio-goa-20-139586156130-orijgp.jpg"
+                },
+                {
+                    "si": "http://cdn1.goibibo.com/t_r_v3/resort-rio-goa-lobby-view-1-78844800664-orijgp.jpg",
+                    "mi": "http://cdn1.goibibo.com/t_g_ing_v8/resort-rio-goa-lobby-view-1-78844800664-orijgp.jpg"
+                },
+                {
+                    "si": "https://cdn1.goibibo.com/t_r_v3/resort-rio-goa-30-137869794873-orijgp.jpg",
+                    "mi": "https://cdn1.goibibo.com/t_g_ing_v8/resort-rio-goa-30-137869794873-orijgp.jpg"
+                },
+                {
+                    "si": "https://cdn1.goibibo.com/t_r_v3/resort-rio-goa-17-139586142377-orijgp.jpg",
+                    "mi": "https://cdn1.goibibo.com/t_g_ing_v8/resort-rio-goa-17-139586142377-orijgp.jpg"
+                }
+            ],
+            "ba": 1,
+            "cf": 1,
+            "rac": [
+                69,
+                42,
+                69,
+                221,
+                409
+            ],
+            "rec": 427
+        }
+    ],
+    "city_meta_info": {
+        "pxgrn": 0,
+        "altpx": "",
+        "pot": [
+            {
+                "oi": "1",
+                "ot": "30% or more"
+            },
+            {
+                "oi": "2",
+                "ot": "50% or more"
+            }
+        ],
+        "sb_msg": "",
+        "sb": 0,
+        "banner_type": "",
+        "scthr": 15,
+        "is_ipl": 0,
+        "collections": [
+            {
+                "img": "https://gos3.ibcdn.com/dod-thumb-1564570672.jpg",
+                "slug": "dh_dealsoftheday",
+                "st": "",
+                "t": "Daily Steal Deals",
+                "desc": "Best hotel deals running today!"
+            },
+            {
+                "img": "https://gos3.ibcdn.com/flash-deal-thumb-1560489630.jpg",
+                "slug": "dh_hcpdeals",
+                "st": "",
+                "t": "Flash Deals",
+                "desc": "Short-term mega discounts on your favourite properties. Find your best deal NOW!"
+            },
+            {
+                "img": "https://gos3.ibcdn.com/family-kids-thumb-1557219561.jpg",
+                "slug": "dh_familywithkids",
+                "st": "",
+                "t": "Family trip with kids",
+                "desc": "Child Friendly Amenities | Child Below 5 yrs of age stays free | Large Rooms"
+            },
+            {
+                "img": "https://gos3.ibcdn.com/4-5-Star-Hotel-thumb-1555051096.jpg",
+                "slug": "5_at_3",
+                "st": "",
+                "t": "5 Star Hotels at 3 Star Prices",
+                "desc": "Book your favorite 5 star hotels at 3 star prices!"
+            },
+            {
+                "img": "https://gos3.ibcdn.com/4-5-Star-Hotel-thumb-1555051096.jpg",
+                "slug": "4_at_3",
+                "st": "",
+                "t": "4 Star hotels at 3 Star Prices",
+                "desc": "Book your favorite 4 star hotels at 3 star prices!"
+            },
+            {
+                "img": "https://gos3.ibcdn.com/Goa-Hostel-1573121900.jpg",
+                "slug": "altacco_goa_hostels",
+                "st": "",
+                "t": "Happening Hostels in Goa",
+                "desc": "Explore Goa like never before by staying at super-affordable hostels"
+            },
+            {
+                "img": "https://gos3.ibcdn.com/Goa-APARTMENT-1573121998.jpg",
+                "slug": "altacco_goa_budget_apartments",
+                "st": "",
+                "t": "Budget-friendly Goa Apartments ",
+                "desc": "Pick from charming & spacious apartments, located in Goa’s prominent areas"
+            },
+            {
+                "img": "https://gos3.ibcdn.com/Top-rated-budget-hotels-thumb-1553239682.jpg",
+                "slug": "dh_3",
+                "st": "",
+                "t": "The Affordable Luxury",
+                "desc": "Handpicked 3-star properties\n"
+            },
+            {
+                "img": "https://gos3.ibcdn.com/Top-rated-budget-hotels-thumb-1553239682.jpg",
+                "slug": "top_user_rated_budget_htl",
+                "st": "",
+                "t": "Top Rated Budget Hotels",
+                "desc": "Top User Rated Budget hotels"
+            },
+            {
+                "img": "https://gos3.ibcdn.com/Homestays-thumb-1553239451.jpg",
+                "slug": "alternate_accomodation",
+                "st": "",
+                "t": "Apartments,Villas, Cottages,Homes",
+                "desc": "Spacious, affordable and private properties for your quality vacation"
+            },
+            {
+                "img": "https://gos3.ibcdn.com/Goa-Villa-1573122051.jpg",
+                "slug": "altacco_goa_villas",
+                "st": "",
+                "t": "#GroupStays: Pool Villas in Goa",
+                "desc": "Capture insta-worthy moments with your friends by staying at pool villas in Goa"
+            },
+            {
+                "img": "https://gos3.ibcdn.com/Properties-close-to-beach-thumb-1553239579.jpg",
+                "slug": "dh_goa_arambol",
+                "st": "",
+                "t": "Best of Arambol",
+                "desc": "The hunt for great properties in Arambol ends here!"
+            },
+            {
+                "img": "https://gos3.ibcdn.com/Properties-close-to-beach-thumb-1553239579.jpg",
+                "slug": "dh_best_of_calangute",
+                "st": "",
+                "t": "Best of Calangute",
+                "desc": "The hunt for great properties in Calangute ends here!"
+            },
+            {
+                "img": "https://gos3.ibcdn.com/Properties-close-to-beach-thumb-1553239579.jpg",
+                "slug": "dh_goa_baga",
+                "st": "",
+                "t": "Best of Baga",
+                "desc": "Find stays closest to the beach\n"
+            },
+            {
+                "img": "https://gos3.ibcdn.com/oyo-thum-1562303544.jpg",
+                "slug": "dh_oyoflashsale",
+                "st": "",
+                "t": "OYO",
+                "desc": ""
+            },
+            {
+                "img": "https://gos3.ibcdn.com/gostays-cf-thumb-1569844938.jpg",
+                "slug": "dh_cfgostays",
+                "st": "",
+                "t": "Couple Friendly goStays",
+                "desc": "✓ Good Ratings ✓ Unmarried Couples ✓ Local IDs"
+            }
+        ],
+        "segments": [
+            {
+                "img": "https://gos3.ibcdn.com/cleanstays-1584460400.png",
+                "slug": "dh_staycation",
+                "st": "",
+                "t": "Weekend Deals",
+                "desc": "Weekend Deals’ Medley"
+            },
+            {
+                "img": "https://gos3.ibcdn.com/thumb-gosafe-1588441329.png",
+                "slug": "dh_gosafe",
+                "st": "Introducing",
+                "t": "goSafe Properties",
+                "desc": "Safe and hygienic places to stay for your upcoming trips"
+            },
+            {
+                "img": "https://gos3.ibcdn.com/couple-thumb-1553234869.jpg",
+                "slug": "dh_cf",
+                "st": "Preferred by",
+                "t": "Couples",
+                "desc": "Hotels Preferred by Couples"
+            },
+            {
+                "img": "https://gos3.ibcdn.com/student-thumb-1553235091.jpg",
+                "slug": "dh_students_group",
+                "st": "Preferred By",
+                "t": "Students",
+                "desc": "Preferred by students"
+            },
+            {
+                "img": "https://gos3.ibcdn.com/business-thumb-1538718880.jpg",
+                "slug": "dh_business_friendly",
+                "st": "Preferred by",
+                "t": "Business Travellers",
+                "desc": "Hotels preferred by Business Travellers"
+            },
+            {
+                "img": "https://gos3.ibcdn.com/women-thumb-1553232928.jpg",
+                "slug": "dh_women_travellers",
+                "st": "Preferred by",
+                "t": "Women Travellers",
+                "desc": "Hotels preferred by business travellers"
+            },
+            {
+                "img": "https://gos3.ibcdn.com/gostays-thumb-1569576453.jpg",
+                "slug": "dh_gostays",
+                "st": "",
+                "t": "goStays",
+                "desc": "goStays - Goibibo Certified Hotels with assured Clean Rooms, Free Wifi, AC, TV and a 100% Money Back Guarantee"
+            },
+            {
+                "img": "https://gos3.ibcdn.com/cleanstays-1584460400.png",
+                "slug": "dh_hotweekends",
+                "st": "",
+                "t": "Hottest Weekend Deals",
+                "desc": "Handpicked Hotels with High Value Deals"
+            },
+            {
+                "img": "https://gos3.ibcdn.com/cleanstays-1584460400.png",
+                "slug": "dh_fooddeals",
+                "st": "",
+                "t": "Foodies’ Favourites",
+                "desc": ""
+            },
+            {
+                "img": "https://gos3.ibcdn.com/cleanstays-1584460400.png",
+                "slug": "dh_upgrades",
+                "st": "",
+                "t": "Upgrades & More",
+                "desc": ""
+            }
+        ],
+        "avai_color": [
+            "#ff1515",
+            "#18a160"
+        ],
+        "sim": {
+            "dh_gosafe": {
+                "idx": 4
+            },
+            "dh_premium_safety": {
+                "idx": 8
+            }
+        },
+        "am": [
+            "Air Conditioning",
+            "Airport Transfer (on Demand)",
+            "Banquet hall",
+            "Business Services",
+            "CCTV surveillance",
+            "Clean Room",
+            "Clean linen",
+            "Conference Room",
+            "Daily housekeeping",
+            "Dining",
+            "Doctor On Call",
+            "Free Internet",
+            "Front desk",
+            "Health-Spa",
+            "Indoor Entertainment",
+            "Internet",
+            "Kitchen",
+            "Laundry Service",
+            "Outdoor Activities",
+            "Parking Facility",
+            "Pets allowed",
+            "Power backup",
+            "Restaurant/Coffee Shop",
+            "Room Service",
+            "Smoking Rooms Available",
+            "Spa",
+            "Swimming Pool",
+            "Travel Assistance"
+        ],
+        "ata": [
+            "Alt Acco",
+            "Budget",
+            "Business",
+            "Gostays",
+            "Holiday",
+            "Luxury",
+            "goHomes"
+        ],
+        "aty": [
+            "Apartment",
+            "Villa",
+            "Hotel",
+            "Homestay",
+            "Resort",
+            "Guest House",
+            "Cottage",
+            "Hostel",
+            "Beach hut",
+            "BnB",
+            "Holiday Homes",
+            "Aparthotel",
+            "Farmstay",
+            "Tent",
+            "Houseboat",
+            "Bungalow"
+        ],
+        "apu": [
+            "Room",
+            "Property",
+            "Bed"
+        ],
+        "grt": [
+            "",
+            "Exceptional",
+            "Good"
+        ],
+        "tabs": [
+            "goSafe",
+            "Pay At Hotel",
+            "Free Cancellation",
+            "goStays",
+            "Couple Friendly",
+            "Business Friendly",
+            "Student Friendly",
+            "OYO"
+        ],
+        "ac": [
+            "bc",
+            "gym",
+            "int",
+            "rest",
+            "sp",
+            "freeint",
+            "nobc",
+            "nogym",
+            "noint",
+            "norest",
+            "nosp",
+            "nofreeint"
+        ],
+        "dsl": [
+            {
+                "n": "Panjim Area",
+                "ahc": 151
+            },
+            {
+                "n": "Candolim Area",
+                "ahc": 433
+            },
+            {
+                "n": "Salcete",
+                "ahc": 219
+            },
+            {
+                "n": "Calangute Area",
+                "ahc": 879
+            },
+            {
+                "n": "Baga Area",
+                "ahc": 225
+            },
+            {
+                "n": "Benaulim Beach",
+                "ahc": 147
+            },
+            {
+                "n": "Tiswadi",
+                "ahc": 31
+            },
+            {
+                "n": "Marathahalli",
+                "ahc": 5
+            },
+            {
+                "n": "Canacona",
+                "ahc": 61
+            },
+            {
+                "n": "Varca Area",
+                "ahc": 28
+            },
+            {
+                "n": "Vagator Area",
+                "ahc": 162
+            },
+            {
+                "n": "Anjuna Area",
+                "ahc": 189
+            },
+            {
+                "n": "Colva Area",
+                "ahc": 30
+            },
+            {
+                "n": "Bardez",
+                "ahc": 444
+            },
+            {
+                "n": "Morjim",
+                "ahc": 112
+            },
+            {
+                "n": "Agonda",
+                "ahc": 35
+            },
+            {
+                "n": "Palolem Beach Area",
+                "ahc": 36
+            },
+            {
+                "n": "Vasco Da Gama",
+                "ahc": 15
+            },
+            {
+                "n": "Alto De Porvorim",
+                "ahc": 14
+            },
+            {
+                "n": "Pernem",
+                "ahc": 201
+            },
+            {
+                "n": "Arpora",
+                "ahc": 100
+            },
+            {
+                "n": "Mapusa",
+                "ahc": 20
+            },
+            {
+                "n": "Betalbatim Beach",
+                "ahc": 7
+            },
+            {
+                "n": "Dabolim",
+                "ahc": 1
+            },
+            {
+                "n": "Bogmalo Beach Area",
+                "ahc": 1
+            },
+            {
+                "n": "Arambol, Goa, India",
+                "ahc": 1
+            },
+            {
+                "n": "Siolim",
+                "ahc": 28
+            },
+            {
+                "n": "Bandoli",
+                "ahc": 11
+            },
+            {
+                "n": "Cavelossim, Goa, India",
+                "ahc": 2
+            },
+            {
+                "n": "Patnem Beach",
+                "ahc": 1
+            },
+            {
+                "n": "Caranzalem",
+                "ahc": 2
+            },
+            {
+                "n": "Parra",
+                "ahc": 84
+            },
+            {
+                "n": "Monteiro Vaddo",
+                "ahc": 1
+            },
+            {
+                "n": "Marna Siolim",
+                "ahc": 1
+            },
+            {
+                "n": "Thivim",
+                "ahc": 1
+            },
+            {
+                "n": "Vasco",
+                "ahc": 1
+            },
+            {
+                "n": "Nagoa, Saligao",
+                "ahc": 46
+            },
+            {
+                "n": "Sateri Nagar Colony",
+                "ahc": 6
+            },
+            {
+                "n": "Nerul",
+                "ahc": 1
+            },
+            {
+                "n": "Naicavaddo",
+                "ahc": 3
+            },
+            {
+                "n": "Mazal Waddo",
+                "ahc": 1
+            }
+        ],
+        "amc": {
+            "Smoking Rooms Available": 597,
+            "Airport Transfer (on Demand)": 44,
+            "Free Internet": 1551,
+            "Kitchen": 1758,
+            "Air Conditioning": 1613,
+            "Dining": 1048,
+            "Banquet hall": 132,
+            "Indoor Entertainment": 230,
+            "Clean linen": 5,
+            "Health-Spa": 220,
+            "Laundry Service": 1653,
+            "Front desk": 8,
+            "Swimming Pool": 1725,
+            "Doctor On Call": 6,
+            "Power backup": 1969,
+            "CCTV surveillance": 1353,
+            "Room Service": 1434,
+            "Travel Assistance": 1184,
+            "Internet": 899,
+            "Daily housekeeping": 2788,
+            "Clean Room": 5,
+            "Pets allowed": 1,
+            "Spa": 479,
+            "Outdoor Activities": 1610,
+            "Conference Room": 260,
+            "Business Services": 151,
+            "Restaurant/Coffee Shop": 1475,
+            "Parking Facility": 1584
+        },
+        "tyhc": {
+            "Houseboat": 2,
+            "BnB": 37,
+            "Hotel": 552,
+            "Resort": 379,
+            "Beach hut": 47,
+            "Bungalow": 1,
+            "Villa": 835,
+            "Tent": 4,
+            "Farmstay": 9,
+            "Homestay": 518,
+            "Apartment": 1045,
+            "Aparthotel": 9,
+            "Hostel": 101,
+            "Guest House": 289,
+            "Cottage": 130,
+            "Holiday Homes": 24
+        },
+        "lli": {
+            "Nagoa, Saligao": "4615971801674505257",
+            "Vasco Da Gama": "4314860143839316911",
+            "Arpora": "4834827929434095251",
+            "Sateri Nagar Colony": "1672513047346901681",
+            "Arambol, Goa, India": "6853438823703262890",
+            "Bardez": "4719923507833303064",
+            "Candolim Area": "2610008089602176103",
+            "Bandoli": "877743472072657908",
+            "Agonda": "4717992906729311560",
+            "Colva Area": "7512802255936701463",
+            "Cavelossim, Goa, India": "2779225744234138",
+            "Patnem Beach": "5862157678197606391",
+            "Monteiro Vaddo": "4922585147927614329",
+            "Baga Area": "3575894941634872361",
+            "Mapusa": "8611766551979807412",
+            "Naicavaddo": "4824579189558533916",
+            "Salcete": "4619167027452471690",
+            "Anjuna Area": "1192842685257602566",
+            "Mazal Waddo": "6012990775470721346",
+            "Kudal, Siolim": "2202889536742320074",
+            "Thivim": "7433866187573646804",
+            "Bogmalo Beach Area": "1530361802057313125",
+            "Parra": "5074088103251629551",
+            "Morjim": "2013723808369305373",
+            "Palolem Beach Area": "7755381650099386265",
+            "Varca Area": "5635648677645910983",
+            "Agonda, Goa, India": "4717992906729311560",
+            "Marna Siolim": "7321821379333836312",
+            "Vasco": "6666682914322589545",
+            "Panjim Area": "6300248263019669765",
+            "Pernem": "1555545130466860339",
+            "Tiswadi": "1450429650762472308",
+            "Siolim": "2202889536742320074",
+            "Betalbatim Beach": "5488739410618766604",
+            "Marathahalli": "2475615050406350555",
+            "Cavelossim": "2779225744234138",
+            "Calangute Area": "4395858004770232814",
+            "Benaulim Beach": "1158856125559557180",
+            "Canacona": "2668416721392137136",
+            "Nerul": "356415659654003181",
+            "Dabolim": "1125725365901098623",
+            "Alto De Porvorim": "8995661238375677842",
+            "Caranzalem": "3257954061092299753",
+            "Vagator Area": "377139501042471059"
+        },
+        "flt": [
+            {
+                "n": "All Hotels",
+                "fd": {},
+                "ic": "taHotels"
+            },
+            {
+                "n": "goSafe",
+                "fd": {
+                    "tag": "goSafe"
+                },
+                "ic": "tGosafe"
+            },
+            {
+                "n": "goStays Certified",
+                "fd": {
+                    "tag": "goStays"
+                },
+                "ic": "tGostay"
+            },
+            {
+                "n": "Couple Friendly",
+                "fd": {
+                    "tag": "Couple Friendly"
+                },
+                "ic": "tCoupleFriendly"
+            },
+            {
+                "n": "OYO Rooms",
+                "fd": {
+                    "tag": "OYO"
+                },
+                "ic": "tOyo"
+            }
+        ],
+        "qf": [
+            {
+                "n": "Top locations",
+                "fd": {
+                    "location_search": []
+                },
+                "o": [
+                    {
+                        "n": "Calangute Area",
+                        "d": "One of the most popular beaches lined with shacks and street shopping. Come here for thrilling watersports and restaurants offering authentic Goan cuisine.",
+                        "fd": {
+                            "loc_id": "4395858004770232814",
+                            "id_type": "voy"
+                        }
+                    },
+                    {
+                        "n": "Bardez",
+                        "d": "Home to the famous beaches of North Goa. Visit attractions like Fort Aguada, Museum of Goa and Chapora Fort. Party at vibrant nightclubs, bars and casinos.",
+                        "fd": {
+                            "loc_id": "4719923507833303064",
+                            "id_type": "voy"
+                        }
+                    },
+                    {
+                        "n": "Candolim Area",
+                        "d": "Indulge in watersports at one of the longest and peaceful beaches of Goa. Enjoy flavoursome food and drinks at the shacks and beach restaurants.",
+                        "fd": {
+                            "loc_id": "2610008089602176103",
+                            "id_type": "voy"
+                        }
+                    },
+                    {
+                        "n": "Baga Area",
+                        "d": "Most lively and touristy beach area in North Goa. Enjoy sundowner parties with Bollywood music. Stop by the flea market to collect souvenirs, relish local delicacies and drinks.",
+                        "fd": {
+                            "loc_id": "3575894941634872361",
+                            "id_type": "voy"
+                        }
+                    },
+                    {
+                        "n": "Anjuna Area",
+                        "d": "Famed for its beach parties, nightlife and hippie culture, Anjuna offers budget accommodation. Visit the flea market to collect souvenirs and ride to offbeat corners on rental scooters.",
+                        "fd": {
+                            "loc_id": "1192842685257602566",
+                            "id_type": "voy"
+                        }
+                    },
+                    {
+                        "n": "Panjim Area",
+                        "d": "Home to the city’s best casinos, ancient churches and architectural marvels, Panjim offers a wide range of hotels from budget to luxury.",
+                        "fd": {
+                            "loc_id": "6300248263019669765",
+                            "id_type": "voy"
+                        }
+                    },
+                    {
+                        "n": "Colva Area",
+                        "d": "A beautiful coastal village with powder white sand beach and coconut trees along the coastline. Unwind at the beach shacks, pubs and bars or indulge in watersports here.",
+                        "fd": {
+                            "loc_id": "7512802255936701463",
+                            "id_type": "voy"
+                        }
+                    },
+                    {
+                        "n": "Salcete",
+                        "fd": {
+                            "loc_id": "4619167027452471690",
+                            "id_type": "voy"
+                        }
+                    },
+                    {
+                        "n": "Pernem",
+                        "fd": {
+                            "loc_id": "1555545130466860339",
+                            "id_type": "voy"
+                        }
+                    },
+                    {
+                        "n": "Vagator Area",
+                        "fd": {
+                            "loc_id": "377139501042471059",
+                            "id_type": "voy"
+                        }
+                    }
+                ],
+                "m": 1,
+                "lf": "loc_id"
+            },
+            {
+                "n": "Top landmark",
+                "fd": {
+                    "landmark": []
+                },
+                "o": [
+                    {
+                        "n": "Basilica of Bom Jesus",
+                        "d": "Roman Catholic church and UNESCO World Heritage Site",
+                        "fd": {
+                            "loc_id": "7095811499699432163",
+                            "id_type": "voy"
+                        }
+                    },
+                    {
+                        "n": "Britto's",
+                        "d": "Famous seaside restaurant serving delicious seafood ",
+                        "fd": {
+                            "loc_id": "5782202994219070186",
+                            "id_type": "voy"
+                        }
+                    },
+                    {
+                        "n": "Curlies Beach Shack",
+                        "d": "Vibrant beach shack offering great Goan cuisine",
+                        "fd": {
+                            "loc_id": "2914859088623025102",
+                            "id_type": "voy"
+                        }
+                    },
+                    {
+                        "n": "Deltin Royale",
+                        "d": "Luxurious floating casino with a restaurant and bar",
+                        "fd": {
+                            "loc_id": "3905616050086142652",
+                            "id_type": "voy"
+                        }
+                    },
+                    {
+                        "n": "Anjuna Flea Market",
+                        "d": "Beachfront market with stalls selling unique souvenirs",
+                        "fd": {
+                            "loc_id": "7661608875113990194",
+                            "id_type": "voy"
+                        }
+                    },
+                    {
+                        "n": "Club Tito's Goa",
+                        "d": "Most popular nightclub in North Goa",
+                        "fd": {
+                            "loc_id": "8991243823047321374",
+                            "id_type": "voy"
+                        }
+                    },
+                    {
+                        "n": "Casino Pride",
+                        "d": "Grand offshore casino with exciting table games ",
+                        "fd": {
+                            "loc_id": "9019467857272560096",
+                            "id_type": "voy"
+                        }
+                    },
+                    {
+                        "n": "Sinq Night Club",
+                        "d": "Nightclub and lounge with an outdoor pool ",
+                        "fd": {
+                            "loc_id": "1201419617650221303",
+                            "id_type": "voy"
+                        }
+                    },
+                    {
+                        "n": "Club LPK ",
+                        "d": "Riverside nightclub with themed decor and buzzing music",
+                        "fd": {
+                            "loc_id": "1477835580075563948",
+                            "id_type": "voy"
+                        }
+                    },
+                    {
+                        "n": "Arambol Beach",
+                        "d": "Beautiful beach with a hippie vibe ",
+                        "fd": {
+                            "loc_id": "3060946662261895412",
+                            "id_type": "voy"
+                        }
+                    }
+                ],
+                "lf": "loc_id"
+            },
+            {
+                "n": "Top transit",
+                "fd": {
+                    "transit": []
+                },
+                "o": [
+                    {
+                        "n": "Majorda Railway Station",
+                        "fd": {
+                            "loc_id": "7172695204010776027",
+                            "id_type": "voy"
+                        }
+                    },
+                    {
+                        "n": "Kadamba Bus Terminus",
+                        "fd": {
+                            "loc_id": "5916558932872081835",
+                            "id_type": "voy"
+                        }
+                    },
+                    {
+                        "n": "Calangute Bus Stand",
+                        "fd": {
+                            "loc_id": "7555570545728650425",
+                            "id_type": "voy"
+                        }
+                    },
+                    {
+                        "n": "Chichekade Bus Stop",
+                        "fd": {
+                            "loc_id": "2434479346279726567",
+                            "id_type": "voy"
+                        }
+                    },
+                    {
+                        "n": "Seraulim Railway Station",
+                        "fd": {
+                            "loc_id": "308015489369562243",
+                            "id_type": "voy"
+                        }
+                    },
+                    {
+                        "n": "Cansaulim Railway Station",
+                        "fd": {
+                            "loc_id": "4733277876948611028",
+                            "id_type": "voy"
+                        }
+                    },
+                    {
+                        "n": "Verna Railway Station",
+                        "fd": {
+                            "loc_id": "9053753217507284136",
+                            "id_type": "voy"
+                        }
+                    },
+                    {
+                        "n": "Karmali Railway Station",
+                        "fd": {
+                            "loc_id": "4726273487072598018",
+                            "id_type": "voy"
+                        }
+                    },
+                    {
+                        "n": "Cortalim Bus Stop",
+                        "fd": {
+                            "loc_id": "1761890484618130178",
+                            "id_type": "voy"
+                        }
+                    },
+                    {
+                        "n": "Sancoale Railway Station",
+                        "fd": {
+                            "loc_id": "6336211756668737192",
+                            "id_type": "voy"
+                        }
+                    }
+                ],
+                "lf": "loc_id"
+            },
+            {
+                "n": "Pay At Hotel",
+                "fd": {
+                    "pah": 1
+                }
+            },
+            {
+                "n": "Free Breakfast",
+                "fd": {
+                    "fbfi": 1
+                }
+            }
+        ],
+        "hccm": {
+            "Taj Hotels, Resorts & Palaces": 8,
+            "Backpacker Panda": 1,
+            "Vista Rooms": 50,
+            "WelcomHeritage": 1,
+            "Fortune Hotels": 1,
+            "Leisure Hotels": 1,
+            "Hilton": 3,
+            "The Leela Group": 1,
+            "Zuri": 1,
+            "NIDA Rooms": 1,
+            "Ginger Hotels": 3,
+            "Isprava": 7,
+            "Honeymoon Inn": 1,
+            "WANDERLUST  TRAVELS  PVT. LTD.": 1,
+            "OYO Rooms": 16,
+            "StayWell Hospitality Group": 1,
+            "Royal Orchid Group": 4,
+            "Experience travel and Living": 1,
+            "Radisson": 4,
+            "Lords Hotels & Resorts": 1,
+            "JJW Hotels & Resorts": 1,
+            "India Group of Hotels": 1,
+            "The Lost Hostels": 1,
+            "Abad Hotels": 1,
+            "Lalit group of hotels": 1,
+            "Tree House Hotels & Resorts": 6,
+            "Eastend Group": 1,
+            "29 BUNGALOW PRIVATE LIMITED": 1,
+            "The Park": 2,
+            "Pride group of Hotels": 2,
+            "Sarovar Group of Hotels": 3,
+            "Golden Tulip": 1,
+            "Sterling group of hotels": 2,
+            "Panoramic Group of Hotels": 1,
+            "ITC": 1,
+            "Cygnett hotels": 1,
+            "Mintstay": 1,
+            "Orange Tiger": 2,
+            "Keys Group": 1,
+            "accorhotels": 5,
+            "The Hosteller": 1,
+            "Veda Group of Hotels & Resorts": 1,
+            "Hyatt": 5,
+            "Casa Group": 2,
+            "IHG": 1,
+            "RnB": 1,
+            "Moustache": 1,
+            "Concept Hospitality": 4,
+            "Club Mahindra Group": 3,
+            "yogesh kumar Personal": 1,
+            "Amritara Group": 1,
+            "Spree Hotels": 1,
+            "Mariott International": 4,
+            "Tripvillas": 1,
+            "Goa Tourism Development Corporation ": 4,
+            "Lohias Group of Hotels": 1,
+            "Seasons group": 1,
+            "Mayfair": 1,
+            "": 3797,
+            "Mount n Mist": 1,
+            "Lemon Tree Hotels": 3,
+            "Orchid Hotels": 1,
+            "Seclude": 1,
+            "Bloom Rooms": 3
+        },
+        "hcl": [
+            "",
+            "29 BUNGALOW PRIVATE LIMITED",
+            "Abad Hotels",
+            "Amritara Group",
+            "Backpacker Panda",
+            "Bloom Rooms",
+            "Casa Group",
+            "Club Mahindra Group",
+            "Concept Hospitality",
+            "Cygnett hotels",
+            "Eastend Group",
+            "Experience travel and Living",
+            "Fortune Hotels",
+            "Ginger Hotels",
+            "Goa Tourism Development Corporation ",
+            "Golden Tulip",
+            "Hilton",
+            "Honeymoon Inn",
+            "Hyatt",
+            "IHG",
+            "ITC",
+            "India Group of Hotels",
+            "Isprava",
+            "JJW Hotels & Resorts",
+            "Keys Group",
+            "Lalit group of hotels",
+            "Leisure Hotels",
+            "Lemon Tree Hotels",
+            "Lohias Group of Hotels",
+            "Lords Hotels & Resorts",
+            "Mariott International",
+            "Mayfair",
+            "Mintstay",
+            "Mount n Mist",
+            "Moustache",
+            "NIDA Rooms",
+            "OYO Rooms",
+            "Orange Tiger",
+            "Orchid Hotels",
+            "Panoramic Group of Hotels",
+            "Pride group of Hotels",
+            "Radisson",
+            "RnB",
+            "Royal Orchid Group",
+            "Sarovar Group of Hotels",
+            "Seasons group",
+            "Seclude",
+            "Spree Hotels",
+            "StayWell Hospitality Group",
+            "Sterling group of hotels",
+            "Taj Hotels, Resorts & Palaces",
+            "The Hosteller",
+            "The Leela Group",
+            "The Lost Hostels",
+            "The Park",
+            "Tree House Hotels & Resorts",
+            "Tripvillas",
+            "Veda Group of Hotels & Resorts",
+            "Vista Rooms",
+            "WANDERLUST  TRAVELS  PVT. LTD.",
+            "WelcomHeritage",
+            "Zuri",
+            "accorhotels",
+            "yogesh kumar Personal"
+        ],
+        "lgdin": 0,
+        "ti": 0,
+        "deals": 0,
+        "isrnpl": 0,
+        "ct": "Goa",
+        "co": "india",
+        "coc": "IN",
+        "pax": "1-2_0",
+        "gos_msg": "",
+        "vcid": "8717279093827200968",
+        "la": 15.5659570694,
+        "lo": 15.5659570694,
+        "pid_max": 0,
+        "vcids": [
+            "8717279093827200968"
+        ],
+        "vcidsn": [
+            "Goa"
+        ],
+        "gsm": [
+            "Air Conditioner",
+            "Television",
+            "Clean Rooms"
+        ],
+        "sl": [
+            "dh_gosafe",
+            "dh_gostays"
+        ],
+        "locexplore": true
+    },
+    "next": "8148672539841588159"
+}
