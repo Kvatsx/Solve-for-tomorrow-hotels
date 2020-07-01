@@ -8,3 +8,6 @@ venv/*
 
 # IDE
 .vscode/*
+
+# Python Interpreter
+*.pyc
