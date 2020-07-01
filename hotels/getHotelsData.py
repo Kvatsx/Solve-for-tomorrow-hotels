@@ -19,6 +19,10 @@ def get_goibibo_data(city_id="8717279093827200968", chk_in="20200703", chk_out="
     response = requests.get(url, headers=headers, params=params)
     return response.json()
 
+# def getFilteredData(data):
+#     hotels_list = []
+
+
 
 if __name__ == "__main__":
     res = get_goibibo_data()

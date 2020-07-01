@@ -2,7 +2,9 @@ from flask import session, render_template, request, redirect, url_for, abort, j
 from flask import Flask
 from flask_session import Session
 from hotels import app
+from hotels.models import *
 
+db.init_app(app)
 
 from .getHotelsData import get_goibibo_data
 
