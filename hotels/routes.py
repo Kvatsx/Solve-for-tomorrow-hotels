@@ -45,6 +45,17 @@ def login():
     return render_template("login.html")
 
 
+# {
+#         "hotel_name": "Riva Beach Resort",
+#         "location": "Pernem",
+#         "image": "https://cdn1.goibibo.com/t_g_ing_v8/riva-beach-resort-goa-exterior-142052201679-orig.webp",
+#         "score": 4.3,
+#         "reviewCount": 881,
+#         "ratingCount": 1426,
+#         "offeringPrice": 2340,
+#         "specialPrice": 1496,
+#         "tnc": 340
+# }
 @app.route('/testapi/next=<next>', methods=['GET'])
 def api(next):
     params = (
