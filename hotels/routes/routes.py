@@ -1,4 +1,4 @@
-from flask import Blueprint, jsonify, request
+from flask import Blueprint, jsonify, request, render_template
 from flask_cors import CORS
 
 mod = Blueprint('main', __name__)
@@ -6,4 +6,5 @@ CORS(mod)
 
 @mod.route('/', methods=['GET'])
 def index():
-    return "Hello World!", 201
+    """Landing page"""
+    return render_template('home.html')
