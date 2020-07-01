@@ -8,6 +8,13 @@ from .getHotelsData import get_goibibo_data, getCitiesMapping
 
 db.init_app(app)
 
+# config_object = 'hotels.settings'
+# app.config.from_object(config_object)
+app.config['SQLALCHEMY_DATABASE_URI'] = 'postgresql://postgres:rupav@localhost/postgres'
+db.init_app(app)
+
+with app.app_context():
+    db.create_all()
 
 @app.route('/', methods=['GET'])
 def index():

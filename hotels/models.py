@@ -1,4 +1,4 @@
-from flask_sqlalchemy import SQLAlchemy
+from hotels.db import db
 
 db = SQLAlchemy()
 
