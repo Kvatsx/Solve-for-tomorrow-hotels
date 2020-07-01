@@ -1,0 +1,17 @@
+.jumbotron {
+    padding: 40px 30px 40px 30px;
+    margin: 0px auto;
+    background:  #2276e3 ;
+}
+
+#search {
+    color: white;
+}
+
+.searchButton {
+    text-align: center;
+}
+
+/* .hotel-list {
+
+} */

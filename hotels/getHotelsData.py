@@ -45,6 +45,11 @@ def getFilteredData(data):
     return hotels_list
 
 
+def getCitiesMapping():
+    f = open('hotels/map.json', 'r')
+    data = json.load(f)
+    return data
+
 if __name__ == "__main__":
     res, d = get_goibibo_data()
     json.dump(res, open("data.json", 'w'))

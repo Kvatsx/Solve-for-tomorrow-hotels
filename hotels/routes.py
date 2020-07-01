@@ -4,15 +4,14 @@ from flask_session import Session
 from hotels import app
 from hotels.models import *
 
-db.init_app(app)
+from .getHotelsData import get_goibibo_data, getCitiesMapping
 
-from .getHotelsData import get_goibibo_data
+db.init_app(app)
 
 
 @app.route('/', methods=['GET'])
 def index():
     return redirect(url_for("login"))
-
 
 @app.route("/register", methods=["GET", "POST"])
 def register():
@@ -45,6 +44,13 @@ def login():
     return render_template("login.html")
 
 
+@app.route('/home', methods=["GET", "POST"])
+def home():
+    if request.method == "POST":
+        print("post")
+    return render_template('home.html', cities=getCitiesMapping())
+
+
 # {
 #         "hotel_name": "Riva Beach Resort",
 #         "location": "Pernem",
@@ -59,8 +65,8 @@ def login():
 @app.route('/testapi/next=<next>', methods=['GET'])
 def api(next):
     params = (
-        ('s', 'popularity^'),
-        ('cur', 'INR^'),
+        ('s', 'popularity'),
+        ('cur', 'INR'),
         ('tmz', '-330'),
     )
     if next != "null":
