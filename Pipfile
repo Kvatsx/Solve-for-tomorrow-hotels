@@ -16,6 +16,7 @@ gunicorn = "*"
 numpy = "*"
 flask-session = "*"
 psycopg2 = "*"
+flask-sqlalchemy = "*"
 
 [requires]
 python_version = "3.7"
