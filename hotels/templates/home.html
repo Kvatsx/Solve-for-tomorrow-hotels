@@ -63,13 +63,23 @@
 						</div>
 					</form>
 				</div>
-			</div>
+			</div>			
 		</div>
+
 	</header>
 
 	<div class="container">
-		<div class="hotel-list" id="hotelList">
-		</div>
+		{% if show %}
+			<div class="hotel-list" id="hotelList">
+			{% for hotel in hotels %}
+				<div class="card">
+					<div class="card-header .bg-dark">{{ hotel.hotel_name }}</div>
+					<div class="card-body">{{ hotel.location }}</div>
+					<div class="card-footer .bg-light">Add to Wishlist</div>
+				</div>
+			{% endfor %}
+			</div>
+		{% endif %}
 	</div>
 
 	<!-- Hotel template -->

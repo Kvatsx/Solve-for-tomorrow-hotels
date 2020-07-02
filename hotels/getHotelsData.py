@@ -50,6 +50,11 @@ def getCitiesMapping():
     data = json.load(f)
     return data
 
+def getSampleHotels():
+    f = open('hotels/data.json' ,'r')
+    data = json.load(f)
+    return data
+
 if __name__ == "__main__":
     res, d = get_goibibo_data()
     json.dump(res, open("data.json", 'w'))
