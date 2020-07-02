@@ -11,6 +11,9 @@ class User(db.Model):
 class Hotel(db.Model):
     __tablename__ = "hotels"
     id = db.Column(db.Integer, primary_key=True)
+    name = db.Column(db.String, nullable=False)
+    location = db.Column(db.String, nullable=False)
+    locid = db.Column(db.String, nullable=False)
     # TODO: create schema of hotels
 
 
