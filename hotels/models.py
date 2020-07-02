@@ -8,7 +8,6 @@ class User(db.Model):
     password = db.Column(db.String, nullable=False)
     wishlist = db.relationship('Wishlist', backref='user', uselist=False)
 
-
 class Hotel(db.Model):
     __tablename__ = "hotels"
     id = db.Column(db.Integer, primary_key=True)
