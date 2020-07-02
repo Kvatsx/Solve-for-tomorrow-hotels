@@ -1,4 +1,4 @@
-from flask import session, render_template, request, redirect, url_for, abort, jsonify
+from flask import session, render_template, request, redirect, url_for, abort, jsonify, flash
 from flask import Flask
 from flask_session import Session
 from hotels import app
@@ -54,23 +54,36 @@ def login():
 @app.route('/home', methods=["GET", "POST"])
 def home():
     if request.method == "POST":
-        cities = getCitiesMapping()
-        params = Dict()
-        params.dest = request.form["where"]
-        params.cin = request.form["cin"]
-        params.cout = request.form["cout"]
-        params.guests = request.form["guests"]
+        if "add" in request.form:
+            ''' get input from forms all those hotels which are added by user to wishlist
+            '''
+            hotels = []
+            for hotel in hotels:
+                db.session.add(Hotel(hotel))
+                db.session.commit()
+            db.session.close()
+            
+            flash("Added to your wishlist!", "success")
+            return render_template('home.html', cities=getCitiesMapping())
+        else:
+            flash("Lets find you a stay!")
+            cities = getCitiesMapping()
+            params = Dict()
+            params.dest = request.form["where"]
+            params.cin = request.form["cin"]
+            params.cout = request.form["cout"]
+            params.guests = request.form["guests"]
 
-        for city in cities:
-            if city["name"] == params.dest:
-                params.dest = city["id"]
-                break
+            for city in cities:
+                if city["name"] == params.dest:
+                    params.dest = city["id"]
+                    break
 
-        # fetch data for this region from api in hotels variable, 
-        hotels = getSampleHotels()
-        print(hotels)
-
-        return render_template('home.html', cities=getCitiesMapping(), show=True, hotels=hotels)
+            # fetch data for this region from api in hotels variable, 
+            hotels = getSampleHotels()
+            print(hotels)
+            return render_template('home.html', cities=getCitiesMapping(), show=True, hotels=hotels)
+    flash("Hi There!")
     return render_template('home.html', cities=getCitiesMapping())
 
 
