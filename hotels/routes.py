@@ -4,18 +4,9 @@ from flask_session import Session
 from hotels import app
 from hotels.models import *
 
-<<<<<<< HEAD
 from .getHotelsData import get_goibibo_data, getCitiesMapping
 
 db.init_app(app)
-||||||| merged common ancestors
-from hotels.db import db
-from .getHotelsData import get_goibibo_data
-=======
-from hotels.models import User, Hotel, Wishlist
-from hotels.db import db
-from .getHotelsData import get_goibibo_data
->>>>>>> Make schemas
 
 config_object = 'hotels.settings'
 app.config.from_object(config_object)
