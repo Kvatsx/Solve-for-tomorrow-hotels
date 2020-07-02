@@ -5,7 +5,7 @@ from hotels import app
 from hotels.models import *
 from addict import Dict
 
-from .getHotelsData import get_goibibo_data, getCitiesMapping
+from .getHotelsData import get_goibibo_data, getCitiesMapping, getSampleHotels
 
 config_object = 'hotels.settings'
 app.config.from_object(config_object)
@@ -66,7 +66,11 @@ def home():
                 params.dest = city["id"]
                 break
 
-        return jsonify(params), 200
+        # fetch data for this region from api in hotels variable, 
+        hotels = getSampleHotels()
+        print(hotels)
+
+        return render_template('home.html', cities=getCitiesMapping(), show=True, hotels=hotels)
     return render_template('home.html', cities=getCitiesMapping())
 
 
