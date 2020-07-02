@@ -3,6 +3,7 @@ from flask import Flask
 from flask_session import Session
 from hotels import app
 from hotels.models import *
+from addict import Dict
 
 from .getHotelsData import get_goibibo_data, getCitiesMapping
 
@@ -53,7 +54,19 @@ def login():
 @app.route('/home', methods=["GET", "POST"])
 def home():
     if request.method == "POST":
-        print("post")
+        cities = getCitiesMapping()
+        params = Dict()
+        params.dest = request.form["where"]
+        params.cin = request.form["cin"]
+        params.cout = request.form["cout"]
+        params.guests = request.form["guests"]
+
+        for city in cities:
+            if city["name"] == params.dest:
+                params.dest = city["id"]
+                break
+
+        return jsonify(params), 200
     return render_template('home.html', cities=getCitiesMapping())
 
 
