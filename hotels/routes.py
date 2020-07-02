@@ -1,13 +1,20 @@
-from flask import session, render_template, request, redirect, url_for, abort, jsonify
+from flask import session, render_template, request, redirect, url_for, abort, jsonify, flash
 from flask import Flask
 from flask_session import Session
 from hotels import app
 from hotels.models import *
+from addict import Dict
 
-from .getHotelsData import get_goibibo_data, getCitiesMapping
+from .getHotelsData import get_goibibo_data, getCitiesMapping, getSampleHotels
 
+config_object = 'hotels.settings'
+app.config.from_object(config_object)
+app.config["SQLALCHEMY_TRACK_MODIFICATIONS"] = False
+# app.config['SQLALCHEMY_DATABASE_URI'] = 'postgresql://postgres:rupav@localhost/postgres'
 db.init_app(app)
 
+with app.app_context():
+    db.create_all()
 
 @app.route('/', methods=['GET'])
 def index():
@@ -47,7 +54,36 @@ def login():
 @app.route('/home', methods=["GET", "POST"])
 def home():
     if request.method == "POST":
-        print("post")
+        if "add" in request.form:
+            ''' get input from forms all those hotels which are added by user to wishlist
+            '''
+            hotels = []
+            for hotel in hotels:
+                db.session.add(Hotel(hotel))
+                db.session.commit()
+            db.session.close()
+            
+            flash("Added to your wishlist!", "success")
+            return render_template('home.html', cities=getCitiesMapping())
+        else:
+            flash("Lets find you a stay!")
+            cities = getCitiesMapping()
+            params = Dict()
+            params.dest = request.form["where"]
+            params.cin = request.form["cin"]
+            params.cout = request.form["cout"]
+            params.guests = request.form["guests"]
+
+            for city in cities:
+                if city["name"] == params.dest:
+                    params.dest = city["id"]
+                    break
+
+            # fetch data for this region from api in hotels variable, 
+            hotels = get_goibibo_data(city_id=params.dest)
+            return jsonify(hotels)
+            return render_template('home.html', cities=getCitiesMapping(), show=True, hotels=hotels)
+    flash("Hi There!")
     return render_template('home.html', cities=getCitiesMapping())
 
 

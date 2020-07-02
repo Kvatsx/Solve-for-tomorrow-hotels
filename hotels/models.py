@@ -1,6 +1,4 @@
-from flask_sqlalchemy import SQLAlchemy
-
-db = SQLAlchemy()
+from hotels.db import db
 
 class User(db.Model):
     __tablename__ = "user"
@@ -10,10 +8,12 @@ class User(db.Model):
     password = db.Column(db.String, nullable=False)
     wishlist = db.relationship('Wishlist', backref='user', uselist=False)
 
-
 class Hotel(db.Model):
     __tablename__ = "hotels"
     id = db.Column(db.Integer, primary_key=True)
+    name = db.Column(db.String, nullable=False)
+    location = db.Column(db.String, nullable=False)
+    locid = db.Column(db.String, nullable=False)
     # TODO: create schema of hotels
 
 

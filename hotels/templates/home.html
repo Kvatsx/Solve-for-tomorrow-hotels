@@ -25,18 +25,30 @@
 				</li>
 			</ul>
 			</div>
-		</div>
+			<div class="float-right" style="width: auto">
+				{% with messages = get_flashed_messages(with_categories=true) %}
+					{% if messages %}
+						{% for category, message in messages %}
+							<div id="message" {% if category == 'success' %} class="alert alert-success alert-dismissible" {% elif category == 'warning' %} class="alert alert-warning alert-dismissible" {% elif category == 'danger' %} class="alert alert-danger alert-dismissible" {% else %} class="alert alert-info alert-dismissible" {% endif %} role="alert">
+							<button type="button" class="close" data-dismiss="alert" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+								{{message}}
+							</div>
+						{% endfor %}
+					{% endif %}
+				{%endwith%}
+			</div>			
+		</div>		
 	</nav>
 
 	<header class="jumbotron">
 		<div class="container">
 			<div class="row">
 				<div class="col-12">
-					<form id="search">
+					<form id="search" method=post action="/home">
 						<div class="form-row">
 							<div class="form-group col-4">
 								<label for="where">Area, Landmark OR Hotel name</label>
-								<select class="form-control" id="where" name="where" aria-placeholder="e.g. - city name">
+								<select class="form-control" id="where" name="where" aria-placeholder="e.g. - city name" required>
 									{% for city in cities %}
 										<option data-id="{{ city.id }}">{{ city.name }}</option>
 									{% endfor %}
@@ -44,32 +56,42 @@
 							</div>
 							<div class="form-group col-2">
 								<label for="checkIn">Check-in</label>
-								<input type="date" class="form-control" id="checkIn" placeholder="">
+								<input type="date" name="cin" class="form-control" id="checkIn" placeholder="">
 							</div>
 							<div class="form-group col-2">
 								<label for="CheckOut">Check-out</label>
-								<input type="date" class="form-control" id="CheckOut" placeholder="">
+								<input type="date" name="cout" class="form-control" id="CheckOut" placeholder="">
 							</div>
 							<div class="form-group col-4">
 								<label for="GuestRooms">Guest & Rooms</label>
 								<!-- TODO: Update below input to some selector -->
-								<input type="text" class="form-control" id="GuestRooms" placeholder="1-0-2_1_1">
+								<input type="text" name="guests" class="form-control" id="GuestRooms" placeholder="1-0-2_1_1">
 							</div>
 						</div>	
 						<div class="form-row">
 							<div class="col-2 offset-5">
-								<button class="btn btn-block btn-warning" type="submit">Search</button>
+								<button class="btn btn-block btn-warning" type="submit" value="submit">Search</button>
 							</div>
 						</div>
 					</form>
 				</div>
-			</div>
+			</div>			
 		</div>
+
 	</header>
 
 	<div class="container">
-		<div class="hotel-list" id="hotelList">
-		</div>
+		{% if show %}
+			<div class="hotel-list" id="hotelList">
+			{% for hotel in hotels %}
+				<div class="card">
+					<div class="card-header .bg-dark">{{ hotel.hotel_name }}</div>
+					<div class="card-body">{{ hotel.location }}</div>
+					<div class="card-footer .bg-light">Add to Wishlist</div>
+				</div>
+			{% endfor %}
+			</div>
+		{% endif %}
 	</div>
 
 	<!-- Hotel template -->
