@@ -80,8 +80,8 @@ def home():
                     break
 
             # fetch data for this region from api in hotels variable, 
-            hotels = getSampleHotels()
-            print(hotels)
+            hotels = get_goibibo_data(city_id=params.dest)
+            return jsonify(hotels)
             return render_template('home.html', cities=getCitiesMapping(), show=True, hotels=hotels)
     flash("Hi There!")
     return render_template('home.html', cities=getCitiesMapping())

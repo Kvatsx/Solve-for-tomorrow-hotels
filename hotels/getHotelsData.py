@@ -17,10 +17,12 @@ def get_goibibo_data(city_id="8717279093827200968", chk_in="20200703", chk_out="
         'sec-fetch-dest': 'empty',
         'referer': 'https://www.goibibo.com/hotels/find-hotels-in-Goa/8717279093827200968/8717279093827200968/^%^7B^%^22ci^%^22:^%^2220200703^%^22,^%^22co^%^22:^%^2220200704^%^22,^%^22r^%^22:^%^221-2-0^%^22^%^7D/?^{^%^22filter^%^22:^{^}^}^&sec=dom^&cc=IN',
         'accept-language': 'en-US,en;q=0.9',
-        'cookie': 'go_ct=132a518ca4474c9239ed2ecb83d4c742; go_tf_lc=^%^22go_tf_direct^%^22; go_tf_direct=^%^22^%^22; go_fix2=; tvc_sm_lpc=not_set^%^20/^%^20not_set^%^20/^%^20(not^%^20set); ls_sm_lpc24=not_set^%^20/^%^20not_set^%^20/^%^20(not^%^20set); _gcl_au=1.1.541977418.1593581880; _gid=GA1.2.195236673.1593581881; bm_sz=C17CE81CC683526D5D59857FD91A5F82~YAAQLHUsMbkdIOhyAQAAdSTwCwjCKMqJK0IGrxAHReW2Tb649kiOOfSoSsDcHQ0x/mt2Kc/zLucudV3pdFoC7gbGLUAU0IEAvoWd7OlvNhASOUtziNFHMBR15rGoy6IfKs078NA95X1OQeiT2tuDUTOwz+k0QM0LHFBa5qHW7+JKCnI3EQk9kAI9h+QWAg0XLQ==; go_attrib_sess_temp=^%^22go_tf_direct^%^22; ak_bmsc=712BFFD4A44E21C6F346BF4C50E82DE0312C752C537A000082E9FC5E3C90BF7D~plxIv+1Aus+9t3FPnSDzkK8NXdv8QRRgfTz6opZmvXVzktt8isDYqYaISydH9JrODxGCruXANmhWHOsdicxL1aSXRuODR7JOxUCI49kgtCiyNJu60IY4GztprNjcHjVyFExxSZrvHOSoIRs6rJsAXzleLuhoI/L0mL49sDiL23icFztVmmulftu3JFnwoiT5ED2ZmXfdiZ6NHY04hEWM7P2tWv6v2QsA+8TUwnSXHXlVzUtIMEhi13Pb8AWC+wCAHr; _ga_6M7BM6XZ7L=GS1.1.1593633162.1.0.1593633162.0; go_dsu=dweb^%^7Cdirect^%^7C^%^7C^%^7Chotels^%^7C; tvc_sess_alive=1; tvc_setShoppers=0^|0^|0^|0; _hjid=06fda338-4264-4414-ad30-b4516c1d37fb; _hjAbsoluteSessionInProgress=1; AMP_TOKEN=^%^24NOT_FOUND; _ga=GA1.2.1063745517.1593581881; tvc_sess=^%^7B^%^22sm^%^22:^%^22(direct)^%^20/^%^20(none)^%^20/^%^20(not^%^20set)^%^22,^%^22t^%^22:1593634187869^%^7D; _abck=D2CE9BA8019E78B9DE041B35A2261BF2~-1~YAAQLHUsMakgIOhyAQAA0+3/CwQI4bTBaLTUcKGODquXijDdtk2eTQku1+4esbnUlAr4/YY7HROyBi0S0vbvx5UZRqtFR1Pr5jqm5XbeParqe8cCtTcfbyj+UQNJ78k8Y+ERydyN14Oplfq2mo+ejT+K3BaRBnRND8NKaQOASTWrI+5XQrvywAlcYUja0V+5NSJ3gS5rwMB6DSMJJRJ3ZIaOUsGR3booYW5DBdowF0S2zz2wuFWXNbh28cdL6qi+jN21n+lmQi/gCWq7zxLTiI00k+oaRT+nJWdGWi+Yd4sGBvPoijDzDOXrslyo/KViCeSzjTWjwTxQ~-1~-1~-1; bm_sv=285A6CE0F02FA08C56E51A9F3D55848F~qlE+TAYIU/R/uSmGprETzRUZ2APOsOnncyBuxFMgx3pNAHg4BOp/RnJKnX/47++hI246LGQQ6iWh9XK4XuXmknHSY3zGbD/uX+A1I/InJNrRm3tOo9YoFrhY6nhMK3CEBkrwtszXUTxFuxszAReQgIW4If9OBfG87wxS4hlHaVg=',
+        'cookie': '_abck=026DE62A22F30449BE92840C64AE9D5A~-1~YAAQVW0/F7IDBxBzAQAAy/RJEATPGHM0E6zGTaf2JsjdBAVO88IfUrLFjZNaavQmhY+/rC9z1VrK1F0MFhPox0w58gysF095zIONLosGRrAwUS8fmGNOsobilJE9XOhD9ZtlTIroaLz8o7VPDD6l6R4tXpUjmdacLiQnK8Ki82xDtpzbJfVZf49qjsG76m583YUmq1GvP2YC51w3DFr19CHopt5YqF4e2njYcOTCzeFtb9th3KPAEokMuPAT7pG8b9gfE5jrHR4s/IVe/Z9XrRM0Erp7a/63iSExN81URuzPrVWeRTIdCiHkjGGSkyuiLNIjtf3Q1z4=~0~-1~-1; Domain=.goibibo.com; Path=/; Expires=Fri, 02 Jul 2021 16:09:09 GMT; Max-Age=31536000; Secure',
     }
     try:
+        print("requested!")
         response = requests.get(url, headers=headers, params=params)
+        print("Response receieved!")
         data = getFilteredData(response.json())
         return data
     except:
@@ -56,6 +58,6 @@ def getSampleHotels():
     return data
 
 if __name__ == "__main__":
-    res, d = get_goibibo_data()
+    res = get_goibibo_data()
     json.dump(res, open("data.json", 'w'))
     print(res)
