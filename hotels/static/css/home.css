@@ -12,6 +12,24 @@
     text-align: center;
 }
 
+.nav-custom-items {
+    color: white;
+}
+
+.welcome {
+    padding-right: 30px;
+    font-weight: bold;
+}
+
+.nav-custom-items {
+    color: white;
+}
+
+img {
+    height: auto;
+    width: 100%;
+}
+
 /* .hotel-list {
 
 } */
